@@ -112,18 +112,22 @@
     font-family:"DM Sans",system-ui,sans-serif;
     background:#fff;color:var(--ink);
     font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased;
+    text-align:left;direction:ltr;          /* anchor alignment context */
   }
   @supports (height:100dvh){
     .scrolly{ --vh: 92dvh; }    /* mobile-safe unit, same size */
   }
 
   /* --- isolate from the host site's global CSS --- */
-  .scrolly, .scrolly *{ box-sizing:border-box; margin:0; padding:0; }
+  .scrolly, .scrolly *{
+    box-sizing:border-box; margin:0; padding:0;
+    text-align:inherit;
+  }
   .scrolly :where(svg, text, line, rect, tspan){ all: revert; }
 
   /* --- pinned graphic, centered in the frame --- */
   .chart-sticky{
-    position:sticky;top: 10%;
+    position:sticky;top:0;
     height:var(--vh);width:100%;
     display:flex;align-items:center;justify-content:center;
   }
@@ -135,37 +139,33 @@
   /* --- steps overlaid on the pinned chart --- */
   .steps{
     position:relative;
-    margin-top:calc(var(--vh) * -1);
-    z-index:2;
-    pointer-events:none;
+    margin:calc(var(--vh) * -1) auto 0;    /* top pull-up + horizontal auto-center */
+    z-index:2;pointer-events:none;
     width:var(--maxw);
-    margin-left:auto;margin-right:auto;
+    max-width:100%;
   }
   .step{
     min-height:var(--vh);
-    display:flex;align-items:flex-start;
+    display:block;                          /* box centered via margin auto, not flex */
     padding:12vh 0 0;
-    justify-content:center;
   }
   .box{
-    pointer-events:auto;max-width:30ch;
+    margin:0 auto;                          /* center the box in the column */
+    pointer-events:auto;
+    width:fit-content;max-width:30ch;
     background:rgba(255,255,255,.82);
     -webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);
     border:1px solid #e6ebe8;border-radius:12px;
     padding:.7rem 1rem;
-    font-weight:600;font-size:clamp(1rem,2vw,1.25rem);
+    font-weight:600;font-size:clamp(1rem,2vw,1.5rem);
     line-height:1.16;letter-spacing:-.02em;
     opacity:.35;transition:opacity .3s ease;
   }
   .box.active{opacity:1}
 
   @media (max-width:720px){
-    .scrolly{ --maxw: 100%; }          /* full built-in width, no extra side gutter */
-    .step{ padding-top:9vh; }          /* top only — no left/right padding */
-    .box{
-      max-width:100%;
-      padding-left:0;
-      padding-right:0;
-    }
+    .scrolly{ --maxw: 100%; }
+    .step{ padding:9vh 12px 0; }            /* top + small side gutter */
+    .box{ max-width:100%; }
   }
 </style>
