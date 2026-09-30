@@ -127,8 +127,10 @@
 
   /* --- pinned graphic, centered in the frame --- */
   .chart-sticky{
-    position:sticky;top:10%;
-    height:var(--vh);width:100%;
+    position:sticky;
+    top:10%;
+    height:var(--vh);
+    width:100%;
     display:flex;align-items:center;justify-content:center;
   }
   .chart{
