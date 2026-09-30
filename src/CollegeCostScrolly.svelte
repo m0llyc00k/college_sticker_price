@@ -104,27 +104,68 @@
 </section>
 
 <style>
-  .scrolly{position:relative;--ink:#182420;
-    font-family:"DM Sans",system-ui,sans-serif;background:#fff;color:var(--ink);
-    font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased}
+  .scrolly{
+    --vh: 92vh;                 /* pinned-area height; leaves room for site header */
+    --maxw: min(1100px, 92vw);  /* chart + caption column width cap */
+    position:relative;
+    --ink:#182420;
+    font-family:"DM Sans",system-ui,sans-serif;
+    background:#fff;color:var(--ink);
+    font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased;
+  }
+  @supports (height:100dvh){
+    .scrolly{ --vh: 92dvh; }    /* mobile-safe unit, same size */
+  }
 
-  /* pinned graphic */
-  .chart-sticky{position:sticky;top:0;height:100vh;width:100%}
-  .chart{position:absolute;inset:clamp(16px,3vh,32px) clamp(16px,4vw,48px)}
+  /* --- isolate from the host site's global CSS --- */
+  .scrolly, .scrolly *{ box-sizing:border-box; margin:0; padding:0; }
+  .scrolly :where(svg, text, line, rect, tspan){ all: revert; }
 
-  /* steps overlaid on the pinned chart */
-  .steps{position:relative;margin-top:-100vh;z-index:2;pointer-events:none}
-  .step{min-height:100vh;display:flex;align-items:flex-start;padding:12vh clamp(18px,5vw,64px) 0}
-  .box{pointer-events:auto;max-width:30ch;background:rgba(255,255,255,.82);
+  /* --- pinned graphic, centered in the frame --- */
+  .chart-sticky{
+    position:sticky;top: 10%;
+    height:var(--vh);width:100%;
+    display:flex;align-items:center;justify-content:center;
+  }
+  .chart{
+    width:var(--maxw);
+    height:min(80%, 720px);
+  }
+
+  /* --- steps overlaid on the pinned chart --- */
+  .steps{
+    position:relative;
+    margin-top:calc(var(--vh) * -1);
+    z-index:2;
+    pointer-events:none;
+    width:var(--maxw);
+    margin-left:auto;margin-right:auto;
+  }
+  .step{
+    min-height:var(--vh);
+    display:flex;align-items:flex-start;
+    padding:12vh 0 0;
+    justify-content:center;
+  }
+  .box{
+    pointer-events:auto;max-width:30ch;
+    background:rgba(255,255,255,.82);
     -webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);
-    border:1px solid #e6ebe8;border-radius:12px;padding:.7rem 1rem;
-    font-weight:600;font-size:clamp(1.2rem,2.7vw,2.1rem);line-height:1.16;letter-spacing:-.02em;
-    opacity:.35;transition:opacity .3s ease}
+    border:1px solid #e6ebe8;border-radius:12px;
+    padding:.7rem 1rem;
+    font-weight:600;font-size:clamp(1rem,2vw,1.25rem);
+    line-height:1.16;letter-spacing:-.02em;
+    opacity:.35;transition:opacity .3s ease;
+  }
   .box.active{opacity:1}
 
   @media (max-width:720px){
-    .chart{inset:12px 10px}
-    .step{padding-top:9vh}
-    .box{max-width:24ch}
+    .scrolly{ --maxw: 100%; }          /* full built-in width, no extra side gutter */
+    .step{ padding-top:9vh; }          /* top only — no left/right padding */
+    .box{
+      max-width:100%;
+      padding-left:0;
+      padding-right:0;
+    }
   }
 </style>
