@@ -1,0 +1,101 @@
+rank,name,city,state,ownership,cost_of_attendance,coa_data_year,avg_net_price,net_price_data_year,tuition_out_of_state,tuition_data_year
+1,Pepperdine University,Malibu,CA,Private nonprofit,93512,2024-25,58098,2024-25,69918,2024-25
+2,Northwestern University,Evanston,IL,Private nonprofit,91250,2024-25,29167,2024-25,68322,2024-25
+3,Haverford College,Haverford,PA,Private nonprofit,90382,2024-25,25314,2024-25,70688,2024-25
+4,University of Chicago,Chicago,IL,Private nonprofit,90360,2024-25,14860,2024-25,70662,2024-25
+5,University of Southern California,Los Angeles,CA,Private nonprofit,90300,2024-25,32740,2024-25,72097,2024-25
+6,Harvey Mudd College,Claremont,CA,Private nonprofit,90165,2024-25,35924,2024-25,68613,2024-25
+7,Vanderbilt University,Nashville,TN,Private nonprofit,89590,2024-25,15846,2024-25,67498,2024-25
+8,Barnard College,New York,NY,Private nonprofit,89538,2024-25,28800,2024-25,69888,2024-25
+9,Boston College,Chestnut Hill,MA,Private nonprofit,89493,2024-25,41704,2024-25,70702,2024-25
+10,Columbia University in the City of New York,New York,NY,Private nonprofit,89472,2024-25,21590,2024-25,71845,2024-25
+11,University of Pennsylvania,Philadelphia,PA,Private nonprofit,89028,2024-25,28699,2024-25,68686,2024-25
+12,Wesleyan University,Middletown,CT,Private nonprofit,89020,2024-25,30177,2024-25,70342,2024-25
+13,Georgetown University,Washington,DC,Private nonprofit,88741,2024-25,40815,2024-25,68017,2024-25
+14,Washington University in St Louis,St. Louis,MO,Private nonprofit,88488,2024-25,21786,2024-25,65790,2024-25
+15,Yale University,New Haven,CT,Private nonprofit,88300,2024-25,23777,2024-25,67250,2024-25
+16,Tufts University,Medford,MA,Private nonprofit,88300,2024-25,39998,2024-25,70704,2024-25
+17,The New School,New York,NY,Private nonprofit,88284,2024-25,58741,2024-25,58694,2024-25
+18,Cornell University,Ithaca,NY,Private nonprofit,88140,2024-25,28690,2024-25,69314,2024-25
+19,Trinity College,Hartford,CT,Private nonprofit,87840,2024-25,34832,2024-25,70770,2024-25
+20,Stanford University,Stanford,CA,Private nonprofit,87833,2024-25,13807,2024-25,65910,2024-25
+21,Dartmouth College,Hanover,NH,Private nonprofit,87793,2024-25,29519,2024-25,68268,2024-25
+22,Brown University,Providence,RI,Private nonprofit,87648,2024-25,25184,2024-25,71412,2024-25
+23,Amherst College,Amherst,MA,Private nonprofit,87640,2024-25,23367,2024-25,70480,2024-25
+24,Kenyon College,Gambier,OH,Private nonprofit,87590,2024-25,38512,2024-25,71520,2024-25
+25,Scripps College,Claremont,CA,Private nonprofit,87564,2024-25,36294,2024-25,65950,2024-25
+26,Wake Forest University,Winston-Salem,NC,Private nonprofit,87499,2024-25,28719,2024-25,67642,2024-25
+27,Vassar College,Poughkeepsie,NY,Private nonprofit,87419,2024-25,39343,2024-25,71030,2024-25
+28,Oberlin College,Oberlin,OH,Private nonprofit,87404,2024-25,38645,2024-25,67366,2024-25
+29,Bennington College,Bennington,VT,Private nonprofit,87284,2024-25,30947,2024-25,66262,2024-25
+30,Duke University,Durham,NC,Private nonprofit,87072,2024-25,29612,2024-25,68758,2024-25
+31,Colgate University,Hamilton,NY,Private nonprofit,87070,2024-25,28786,2024-25,70306,2024-25
+32,Tulane University of Louisiana,New Orleans,LA,Private nonprofit,87004,2024-25,39949,2024-25,68678,2024-25
+33,Washington and Lee University,Lexington,VA,Private nonprofit,87000,2024-25,23781,2024-25,68045,2024-25
+34,Colorado College,Colorado Springs,CO,Private nonprofit,86921,2024-25,33375,2024-25,70734,2024-25
+35,California Institute of Technology,Pasadena,CA,Private nonprofit,86886,2024-25,16075,2024-25,65898,2024-25
+36,Claremont McKenna College,Claremont,CA,Private nonprofit,86500,2024-25,28849,2024-25,67980,2024-25
+37,Franklin W Olin College of Engineering,Needham,MA,Private nonprofit,86474,2024-25,25171,2024-25,66398,2024-25
+38,Pitzer College,Claremont,CA,Private nonprofit,86466,2024-25,34191,2024-25,65192,2024-25
+39,Brandeis University,Waltham,MA,Private nonprofit,86448,2024-25,35736,2024-25,68080,2024-25
+40,Reed College,Portland,OR,Private nonprofit,86376,2024-25,33013,2024-25,69350,2024-25
+41,Wellesley College,Wellesley,MA,Private nonprofit,86290,2024-25,25496,2024-25,67176,2024-25
+42,Boston University,Boston,MA,Private nonprofit,86285,2024-25,24402,2024-25,68102,2024-25
+43,University of Miami,Coral Gables,FL,Private nonprofit,86078,2024-25,37244,2024-25,62616,2024-25
+44,Smith College,Northampton,MA,Private nonprofit,86030,2024-25,27579,2024-25,65178,2024-25
+45,University of Rochester,Rochester,NY,Private nonprofit,85962,2024-25,29278,2024-25,67080,2024-25
+46,Johns Hopkins University,Baltimore,MD,Private nonprofit,85947,2024-25,18809,2024-25,65230,2024-25
+47,Jewish Theological Seminary of America,New York,NY,Private nonprofit,85945,2024-25,43195,2024-25,67357,2024-25
+48,Middlebury College,Middlebury,VT,Private nonprofit,85880,2024-25,31483,2024-25,67600,2024-25
+49,Case Western Reserve University,Cleveland,OH,Private nonprofit,85851,2024-25,41190,2024-25,66608,2024-25
+50,Franklin and Marshall College,Lancaster,PA,Private nonprofit,85776,2024-25,36425,2024-25,70794,2024-25
+51,Southern Methodist University,Dallas,TX,Private nonprofit,85606,2024-25,40892,2024-25,67040,2024-25
+52,Harvard University,Cambridge,MA,Private nonprofit,85540,2024-25,19066,2024-25,61676,2024-25
+53,Colby College,Waterville,ME,Private nonprofit,85420,2024-25,17180,2024-25,69600,2024-25
+54,Northeastern University Oakland,Oakland,CA,Private nonprofit,85418,2024-25,25181,2024-25,67778,2024-25
+55,Pomona College,Claremont,CA,Private nonprofit,85300,2024-25,19285,2024-25,65420,2024-25
+56,Skidmore College,Saratoga Springs,NY,Private nonprofit,85270,2024-25,32297,2024-25,67290,2024-25
+57,Bowdoin College,Brunswick,ME,Private nonprofit,85100,2024-25,14398,2024-25,67832,2024-25
+58,Mount Holyoke College,South Hadley,MA,Private nonprofit,84926,2024-25,26441,2024-25,67018,2024-25
+59,Carleton College,Northfield,MN,Private nonprofit,84893,2024-25,25407,2024-25,68892,2024-25
+60,Williams College,Williamstown,MA,Private nonprofit,84860,2024-25,17716,2024-25,68560,2024-25
+61,Occidental College,Los Angeles,CA,Private nonprofit,84800,2024-25,38263,2024-25,66274,2024-25
+62,Villanova University,Villanova,PA,Private nonprofit,84793,2024-25,43756,2024-25,67776,2024-25
+63,Northeastern University,Boston,MA,Private nonprofit,84641,2024-25,30915,2024-25,66162,2024-25
+64,Connecticut College,New London,CT,Private nonprofit,84623,2024-25,36175,2024-25,67242,2024-25
+65,Union College,Schenectady,NY,Private nonprofit,84561,2024-25,34561,2024-25,69039,2024-25
+66,Bard College,Annandale-On-Hudson,NY,Private nonprofit,84553,2024-25,34649,2024-25,66436,2024-25
+67,Syracuse University,Syracuse,NY,Private nonprofit,84517,2024-25,38793,2024-25,65528,2024-25
+68,New York University,New York,NY,Private nonprofit,84374,2024-25,37050,2024-25,62796,2024-25
+69,Hamilton College,Clinton,NY,Private nonprofit,84230,2024-25,28985,2024-25,68960,2024-25
+70,Swarthmore College,Swarthmore,PA,Private nonprofit,84103,2024-25,23149,2024-25,65494,2024-25
+71,Princeton University,Princeton,NJ,Private nonprofit,84040,2024-25,6128,2024-25,62688,2024-25
+72,Loyola Marymount University,Los Angeles,CA,Private nonprofit,83943,2024-25,48381,2024-25,62357,2024-25
+73,The Juilliard School,New York,NY,Private nonprofit,83892,2024-25,43571,2024-25,57950,2024-25
+74,George Washington University,Washington,DC,Private nonprofit,83856,2024-25,36586,2024-25,67710,2024-25
+75,Bucknell University,Lewisburg,PA,Private nonprofit,83756,2024-25,40766,2024-25,67812,2024-25
+76,Carnegie Mellon University,Pittsburgh,PA,Private nonprofit,83654,2024-25,31944,2024-25,66246,2024-25
+77,Emory University,Atlanta,GA,Private nonprofit,83622,2024-25,22585,2024-25,64280,2024-25
+78,Bates College,Lewiston,ME,Private nonprofit,83532,2024-25,29351,2024-25,66590,2024-25
+79,Grinnell College,Grinnell,IA,Private nonprofit,83440,2024-25,17648,2024-25,68106,2024-25
+80,University of Notre Dame,Notre Dame,IN,Private nonprofit,83271,2024-25,26780,2024-25,65025,2024-25
+81,Bryn Mawr College,Bryn Mawr,PA,Private nonprofit,83250,2024-25,31759,2024-25,65920,2024-25
+82,Chapman University,Orange,CA,Private nonprofit,83146,2024-25,46555,2024-25,64984,2024-25
+83,Lafayette College,Easton,PA,Private nonprofit,83133,2024-25,34433,2024-25,65398,2024-25
+84,Macalester College,Saint Paul,MN,Private nonprofit,82991,2024-25,32149,2024-25,68104,2024-25
+85,Dickinson College,Carlisle,PA,Private nonprofit,82902,2024-25,37607,2024-25,65650,2024-25
+86,Fordham University,Bronx,NY,Private nonprofit,82762,2024-25,44338,2024-25,64915,2024-25
+87,Massachusetts Institute of Technology,Cambridge,MA,Private nonprofit,82730,2024-25,20111,2024-25,62396,2024-25
+88,Hobart William Smith Colleges,Geneva,NY,Private nonprofit,82602,2024-25,31563,2024-25,65117,2024-25
+89,Sarah Lawrence College,Bronxville,NY,Private nonprofit,82467,2024-25,41437,2024-25,66862,2024-25
+90,Rensselaer Polytechnic Institute,Troy,NY,Private nonprofit,82404,2024-25,36228,2024-25,64081,2024-25
+91,Santa Clara University,Santa Clara,CA,Private nonprofit,82026,2024-25,50062,2024-25,61293,2024-25
+92,St Lawrence University,Canton,NY,Private nonprofit,82000,2024-25,28651,2024-25,65900,2024-25
+93,Gettysburg College,Gettysburg,PA,Private nonprofit,81960,2024-25,31490,2024-25,66640,2024-25
+94,Webb Institute,Glen Cove,NY,Private nonprofit,81950,2024-25,73043,2024-25,63214,2024-25
+95,Denison University,Granville,OH,Private nonprofit,81900,2024-25,40007,2024-25,67000,2024-25
+96,Rhode Island School of Design,Providence,RI,Private nonprofit,81727,2024-25,50507,2024-25,62688,2024-25
+97,The New England Conservatory of Music,Boston,MA,Private nonprofit,81277,2024-25,46754,2024-25,60750,2024-25
+98,University of Richmond,University of Richmond,VA,Private nonprofit,80961,2024-25,31309,2024-25,65230,2024-25
+99,Lehigh University,Bethlehem,PA,Private nonprofit,80856,2024-25,36931,2024-25,64980,2024-25
+100,Providence College,Providence,RI,Private nonprofit,80466,2024-25,48523,2024-25,63550,2024-25

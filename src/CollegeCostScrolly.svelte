@@ -14,6 +14,7 @@
   import Bars from "./Bars.svelte";
   import AxisY from "./AxisY.svelte";
   import Annotations from "./Annotations.svelte";
+  import BandLabels from "./BandLabels.svelte";
   import { colleges } from "./data.js";
 
   export let data = colleges;
@@ -86,9 +87,10 @@
         yDomain={[0, AXIS_MAX]}
       >
         <Svg>
-          <AxisY ticks={TICKS} refValue={100000} />
+          <AxisY ticks={TICKS} refValue={100000} {step}/>
           <Bars {dropped} {emphAll} {emphSet} />
           <Annotations items={annItems} />
+          <BandLabels show={step === 3} />
         </Svg>
       </LayerCake>
     </div>

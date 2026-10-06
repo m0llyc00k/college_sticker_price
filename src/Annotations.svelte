@@ -11,6 +11,7 @@
 
   export let items = []; // [{ i, title }]
 
+
   const { data, xScale, yScale, width } = getContext("LayerCake");
   const money = format("$,");
 

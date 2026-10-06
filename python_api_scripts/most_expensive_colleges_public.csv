@@ -1,0 +1,101 @@
+rank,name,city,state,ownership,cost_of_attendance,coa_data_year,avg_net_price,net_price_data_year,tuition_out_of_state,tuition_data_year
+1,University of California-Berkeley,Berkeley,CA,Public,45619,2024-25,13481,2024-25,50547,2024-25
+2,William & Mary,Williamsburg,VA,Public,43035,2024-25,19096,2024-25,51038,2024-25
+3,Bloomfield College of Montclair State University,Bloomfield,NJ,Public,42035,2024-25,28014,2024-25,26022,2024-25
+4,University of California-Santa Barbara,Santa Barbara,CA,Public,41573,2024-25,16109,2024-25,50614,2024-25
+5,University of California-Davis,Davis,CA,Public,41238,2024-25,14741,2024-25,50974,2024-25
+6,University of California-Santa Cruz,Santa Cruz,CA,Public,41179,2024-25,17890,2024-25,50205,2024-25
+7,Temple University,Philadelphia,PA,Public,40903,2024-25,28198,2024-25,38958,2024-25
+8,Colorado School of Mines,Golden,CO,Public,40560,2024-25,28690,2024-25,45824,2024-25
+9,University of Virginia-Main Campus,Charlottesville,VA,Public,39926,2024-25,21565,2024-25,59512,2024-25
+10,Pennsylvania State University-Main Campus,University Park,PA,Public,39694,2024-25,32875,2024-25,41790,2024-25
+11,University of California-Merced,Merced,CA,Public,39665,2024-25,11983,2024-25,49823,2024-25
+12,University of Connecticut,Storrs,CT,Public,39426,2024-25,25097,2024-25,43712,2024-25
+13,Virginia Commonwealth University,Richmond,VA,Public,38954,2024-25,23433,2024-25,40109,2024-25
+14,University of California-Riverside,Riverside,CA,Public,38942,2024-25,14304,2024-25,49806,2024-25
+15,The College of New Jersey,Ewing,NJ,Public,38860,2024-25,27646,2024-25,25752,2024-25
+16,Miami University-Oxford,Oxford,OH,Public,38757,2024-25,28384,2024-25,41221,2024-25
+17,University of California-San Diego,La Jolla,CA,Public,38701,2024-25,12470,2024-25,50958,2024-25
+18,University of California-Irvine,Irvine,CA,Public,38632,2024-25,14251,2024-25,49922,2024-25
+19,University of California-Los Angeles,Los Angeles,CA,Public,38614,2024-25,12548,2024-25,49403,2024-25
+20,University of Pittsburgh-Pittsburgh Campus,Pittsburgh,PA,Public,38105,2024-25,30434,2024-25,41430,2024-25
+21,University of Colorado Boulder,Boulder,CO,Public,37684,2024-25,25346,2024-25,44918,2024-25
+22,The University of Arizona Global Campus,Chandler,AZ,Public,37594,2024-25,31266,2024-25,11960,2024-25
+23,Rutgers University-New Brunswick,New Brunswick,NJ,Public,36993,2024-25,24406,2024-25,37441,2024-25
+24,Virginia Polytechnic Institute and State University,Blacksburg,VA,Public,36951,2024-25,24953,2024-25,37764,2024-25
+25,Rowan University,Glassboro,NJ,Public,35842,2024-25,22408,2024-25,26932,2024-25
+26,Rutgers University-Newark,Newark,NJ,Public,35654,2024-25,19703,2024-25,36762,2024-25
+27,University of Vermont,Burlington,VT,Public,35649,2024-25,19343,2024-25,45502,2024-25
+28,University of New Hampshire-Main Campus,Durham,NH,Public,35537,2024-25,23805,2024-25,39852,2024-25
+29,University of Massachusetts Global,Aliso Viejo,CA,Public,35325,2024-25,32654,2024-25,12540,2024-25
+30,Rutgers University-Camden,Camden,NJ,Public,35178,2024-25,18745,2024-25,37276,2024-25
+31,Stockton University,Galloway,NJ,Public,35139,2024-25,20670,2024-25,24524,2024-25
+32,Clemson University,Clemson,SC,Public,35015,2024-25,22253,2024-25,40866,2024-25
+33,Auburn University,Auburn,AL,Public,34919,2024-25,24323,2024-25,34922,2024-25
+34,Virginia Military Institute,Lexington,VA,Public,34824,2024-25,17113,2024-25,52638,2024-25
+35,University of Oregon,Eugene,OR,Public,34793,2024-25,22182,2024-25,44598,2024-25
+36,Louisiana State University and Agricultural & Mechanical College,Baton Rouge,LA,Public,34705,2024-25,19151,2024-25,28631,2024-25
+37,University of Michigan-Ann Arbor,Ann Arbor,MI,Public,34654,2024-25,13138,2024-25,60946,2024-25
+38,Longwood University,Farmville,VA,Public,34588,2024-25,19066,2024-25,27978,2024-25
+39,University of Massachusetts-Amherst,Amherst,MA,Public,34549,2024-25,22383,2024-25,40449,2024-25
+40,University of Kentucky,Lexington,KY,Public,34391,2024-25,18851,2024-25,34140,2024-25
+41,University of Rhode Island,Kingston,RI,Public,34321,2024-25,21440,2024-25,37146,2024-25
+42,Illinois State University,Normal,IL,Public,34309,2024-25,19398,2024-25,28210,2024-25
+43,Massachusetts College of Art and Design,Boston,MA,Public,34239,2024-25,24100,2024-25,43400,2024-25
+44,Michigan Technological University,Houghton,MI,Public,34152,2024-25,14182,2024-25,42988,2024-25
+45,Pennsylvania State University-Penn State Erie-Behrend College,Erie,PA,Public,34081,2024-25,24558,2024-25,26958,2024-25
+46,Citadel Military College of South Carolina,Charleston,SC,Public,33880,2024-25,20723,2024-25,38508,2024-25
+47,Christopher Newport University,Newport News,VA,Public,33766,2024-25,23015,2024-25,31178,2024-25
+48,The University of Tennessee-Knoxville,Knoxville,TN,Public,33678,2024-25,18976,2024-25,33256,2024-25
+49,University of Illinois Urbana-Champaign,Champaign,IL,Public,33642,2024-25,14355,2024-25,35124,2024-25
+50,University of Massachusetts-Dartmouth,North Dartmouth,MA,Public,33485,2024-25,20927,2024-25,32567,2024-25
+51,The University of Alabama,Tuscaloosa,AL,Public,33382,2024-25,22420,2024-25,34172,2024-25
+52,Bowling Green State University-Main Campus,Bowling Green,OH,Public,33007,2024-25,24022,2024-25,22448,2024-25
+53,University of Louisville,Louisville,KY,Public,32941,2024-25,17988,2024-25,29482,2024-25
+54,New Jersey Institute of Technology,Newark,NJ,Public,32859,2024-25,16504,2024-25,37664,2024-25
+55,Texas A&M University-College Station,College Station,TX,Public,32696,2024-25,21315,2024-25,40124,2024-25
+56,Pennsylvania State University-Penn State Altoona,Altoona,PA,Public,32559,2024-25,22213,2024-25,26958,2024-25
+57,Pennsylvania State University-Penn State Harrisburg,Middletown,PA,Public,32521,2024-25,23330,2024-25,26958,2024-25
+58,University of Washington-Seattle Campus,Seattle,WA,Public,32446,2024-25,14091,2024-25,43209,2024-25
+59,Jackson State University,Jackson,MS,Public,32415,2024-25,23836,2024-25,11965,2024-25
+60,College of Charleston,Charleston,SC,Public,32362,2024-25,18960,2024-25,38296,2024-25
+61,California Polytechnic State University-San Luis Obispo,San Luis Obispo,CA,Public,32265,2024-25,16665,2024-25,34665,2024-25
+62,Pennsylvania State University-Penn State Berks,Reading,PA,Public,32242,2024-25,24356,2024-25,26958,2024-25
+63,Michigan State University,East Lansing,MI,Public,32198,2024-25,19680,2024-25,43842,2024-25
+64,University of Cincinnati-Main Campus,Cincinnati,OH,Public,32171,2024-25,25648,2024-25,29310,2024-25
+65,Eastern Connecticut State University,Willimantic,CT,Public,31983,2024-25,21067,2024-25,17428,2024-25
+66,St. Mary's College of Maryland,St. Mary's City,MD,Public,31865,2024-25,18441,2024-25,31374,2024-25
+67,James Madison University,Harrisonburg,VA,Public,31735,2024-25,23322,2024-25,31604,2024-25
+68,University of Missouri-Columbia,Columbia,MO,Public,31713,2024-25,20268,2024-25,36056,2024-25
+69,Oregon State University,Corvallis,OR,Public,31653,2024-25,19604,2024-25,38190,2024-25
+70,Colorado State University-Fort Collins,Fort Collins,CO,Public,31642,2024-25,21279,2024-25,34783,2024-25
+71,University of South Carolina-Columbia,Columbia,SC,Public,31638,2024-25,22811,2024-25,35972,2024-25
+72,Massachusetts Maritime Academy,Buzzards Bay,MA,Public,31367,2024-25,21582,2024-25,23722,2024-25
+73,The University of Texas at Austin,Austin,TX,Public,31247,2024-25,19857,2024-25,44908,2024-25
+74,University of Missouri-St Louis,Saint Louis,MO,Public,31199,2024-25,15071,2024-25,35112,2024-25
+75,University of Mary Washington,Fredericksburg,VA,Public,31137,2024-25,20667,2024-25,27560,2024-25
+76,Pennsylvania State University-Penn State Brandywine,Media,PA,Public,31088,2024-25,22585,2024-25,25392,2024-25
+77,Maine Maritime Academy,Castine,ME,Public,31046,2024-25,23414,2024-25,31102,2024-25
+78,University of Delaware,Newark,DE,Public,30952,2024-25,17799,2024-25,41400,2024-25
+79,University of Massachusetts-Lowell,Lowell,MA,Public,30786,2024-25,17163,2024-25,36264,2024-25
+80,University at Buffalo,Buffalo,NY,Public,30785,2024-25,20995,2024-25,31536,2024-25
+81,Shippensburg University of Pennsylvania,Shippensburg,PA,Public,30785,2024-25,23726,2024-25,15974,2024-25
+82,Winthrop University,Rock Hill,SC,Public,30710,2024-25,15343,2024-25,28676,2024-25
+83,Central Michigan University,Mount Pleasant,MI,Public,30681,2024-25,17597,2024-25,14760,2024-25
+84,Ohio University-Main Campus,Athens,OH,Public,30586,2024-25,21637,2024-25,24838,2024-25
+85,Kent State University at Kent,Kent,OH,Public,30567,2024-25,20787,2024-25,23082,2024-25
+86,University of Massachusetts-Boston,Boston,MA,Public,30544,2024-25,17707,2024-25,38125,2024-25
+87,Stony Brook University,Stony Brook,NY,Public,30539,2024-25,18784,2024-25,32741,2024-25
+88,University of Pittsburgh-Bradford,Bradford,PA,Public,30478,2024-25,15350,2024-25,26644,2024-25
+89,Western Washington University,Bellingham,WA,Public,30359,2024-25,21193,2024-25,28707,2024-25
+90,University of Pittsburgh-Johnstown,Johnstown,PA,Public,30349,2024-25,18202,2024-25,26780,2024-25
+91,Binghamton University,Vestal,NY,Public,30345,2024-25,21620,2024-25,30447,2024-25
+92,Ohio State University-Main Campus,Columbus,OH,Public,30305,2024-25,17339,2024-25,40022,2024-25
+93,Georgia College & State University,Milledgeville,GA,Public,30258,2024-25,20686,2024-25,29512,2024-25
+94,University of Pittsburgh-Greensburg,Greensburg,PA,Public,30141,2024-25,17945,2024-25,26584,2024-25
+95,University of Connecticut-Stamford,Stamford,CT,Public,30122,2024-25,16798,2024-25,40818,2024-25
+96,Arizona State University Campus Immersion,Tempe,AZ,Public,30111,2024-25,14967,2024-25,33139,2024-25
+97,Pennsylvania State University-Penn State Schuylkill,Schuylkill Haven,PA,Public,30065,2024-25,19659,2024-25,25392,2024-25
+98,University of Minnesota-Twin Cities,Minneapolis,MN,Public,30061,2024-25,16778,2024-25,38362,2024-25
+99,South Carolina State University,Orangeburg,SC,Public,30015,2024-25,18097,2024-25,21750,2024-25
+100,Keene State College,Keene,NH,Public,29993,2024-25,17887,2024-25,26840,2024-25

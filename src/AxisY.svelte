@@ -5,6 +5,9 @@
 
   export let ticks = [];
   export let refValue = 100000;
+  export let step;
+
+  $: console.log(step)
 
   const { yScale, width } = getContext("LayerCake");
   const comma = format(",");
@@ -25,9 +28,10 @@
     {/if}
     <text class="ytick" x="-10" y={y} dy=".32em" text-anchor="end">{tickLabel(v, i)}</text>
   {/each}
-
+{#if step < 3}
   <line class="refline" x1="0" x2={$width} y1={ry} y2={ry} />
   <text class="reftag" x={$width} y={ry - 8} text-anchor="end">$100,000 cost of attendance</text>
+  {/if}
 </g>
 
 <style>
