@@ -25,6 +25,8 @@
   
 
   let annotation = '$20,000 per year cost of attendance'
+   let calcYattendance = 800;
+   let calcYaid = 200;
 
   // stable id up front so bars keep identity across re-sorts
   $: base = data.map((d, id) => ({ ...d, id }));
@@ -84,7 +86,7 @@
           <AxisY ticks={TICKS} refValue={showBand ? LINE : null} {step} {annotation} {showBand} />
           <!-- <Band lo={LINE} hi={AXIS_MAX} show={showBand} label="what most people expect to pay" /> -->
           <Bars {dropped} {isEmph}  />
-          <BandLabels show={step === 1} />
+          <BandLabels {calcYaid} {calcYattendance} show={step === 1} />
         </Svg>
       </LayerCake>
     </div>
