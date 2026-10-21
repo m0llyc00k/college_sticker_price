@@ -11,17 +11,23 @@
   import { LayerCake, Svg } from "layercake";
   import { scaleBand, scaleLinear } from "d3-scale";
   import scrollama from "scrollama";
-  import Bars from "./Bars.svelte";
-  import AxisY from "./AxisY.svelte";
-  import Annotations from "./Annotations.svelte";
+  import Bars from "furniture/Bars.svelte";
+  import AxisY from "furniture/AxisY.svelte";
+  import Annotations from "furniture/Annotations.svelte";
+  import BandLabels from "furniture/BandLabels.svelte";
   import { colleges } from "./data.js";
 
   export let data = colleges;
+  export let showBand = 0;
 
   const AXIS_MAX = 120000;
   const TICKS = [0, 20000, 40000, 60000, 80000, 100000, 120000];
 
-  // LayerCake wants an x key; add the row index.
+
+  let annotation = "$100,000 per year cost of attendance";
+  let calcYattendance = 100;
+  let calcYaid = -100;
+
   $: rows = data.map((d, i) => ({ ...d, i }));
 
   // groups / individuals referenced by the steps
@@ -56,6 +62,7 @@
       step === 5 ? new Set([iPrinceton]) :
       step === 6 ? new Set([iPepp, iNew]) :
       new Set();
+   $: isEmph = (d, i) => emphAll || emphSet.has(i);
   $: annItems =
       step === 4 ? [{ i: iChicago, title: "University of Chicago" }] :
       step === 5 ? [{ i: iPrinceton, title: "Princeton" }] :
@@ -86,9 +93,10 @@
         yDomain={[0, AXIS_MAX]}
       >
         <Svg>
-          <AxisY ticks={TICKS} refValue={100000} />
-          <Bars {dropped} {emphAll} {emphSet} />
+          <AxisY ticks={TICKS} refValue={100000} {step} {annotation} {showBand}/>
+          <Bars {dropped} {isEmph} />
           <Annotations items={annItems} />
+          <BandLabels {calcYaid} {calcYattendance} show={step === 3} />
         </Svg>
       </LayerCake>
     </div>
@@ -110,12 +118,12 @@
 
   /* pinned graphic */
   .chart-sticky{position:sticky;top:0;height:100vh;width:100%}
-  .chart{position:absolute;inset:clamp(16px,3vh,32px) clamp(16px,4vw,48px)}
+  .chart{position:absolute;inset:clamp(16px,3vh,32px) clamp(16px,4vw,48px);}
 
   /* steps overlaid on the pinned chart */
   .steps{position:relative;margin-top:-100vh;z-index:2;pointer-events:none}
   .step{min-height:100vh;display:flex;align-items:flex-start;padding:12vh clamp(18px,5vw,64px) 0}
-  .box{pointer-events:auto;max-width:30ch;background:rgba(255,255,255,.82);
+  .box{margin:0 auto; text-align:left;pointer-events:auto;max-width:30ch;background:rgba(255,255,255,.82);
     -webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);
     border:1px solid #e6ebe8;border-radius:12px;padding:.7rem 1rem;
     font-weight:600;font-size:clamp(1.2rem,2.7vw,2.1rem);line-height:1.16;letter-spacing:-.02em;
@@ -123,7 +131,7 @@
   .box.active{opacity:1}
 
   @media (max-width:720px){
-    .chart{inset:12px 10px}
+    .chart{inset:12px 10px;}
     .step{padding-top:9vh}
     .box{max-width:24ch}
   }

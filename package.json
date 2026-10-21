@@ -1,23 +1,28 @@
 {
-  "name": "college-cost-bars",
-  "private": true,
+  "name": "college_cost_app",
   "version": "1.0.0",
-  "type": "module",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0llyc00k/college_sticker_price.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/m0llyc00k/college_sticker_price/issues"
+  },
+  "homepage": "https://github.com/m0llyc00k/college_sticker_price#readme",
   "dependencies": {
-    "d3-format": "^3.1.0",
+    "d3-format": "^3.1.2",
     "d3-scale": "^4.0.2",
-    "layercake": "^8.4.3",
-    "scrollama": "^3.2.0"
-  },
-  "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^3.1.2",
-    "svelte": "^4.2.19",
-    "vite": "^5.4.8",
-    "vite-plugin-css-injected-by-js": "^3.5.2"
+    "layercake": "^11.0.0",
+    "scrollama": "^3.2.0",
+    "svelte": "^5.57.2"
   }
 }

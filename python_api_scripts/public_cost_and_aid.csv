@@ -1,0 +1,566 @@
+name,city,state,in_state_cost_of_attendance,average_grant_aid,in_state_net_price,data_year,in_state_tuition,tuition_data_year,undergrad_enrollment,enrollment_data_year
+Texas A&M University-Central Texas,Killeen,TX,14187,12887,1300,2024-25,7363,2024-25,1750,2024-25
+CUNY Hunter College,New York,NY,13905,10921,2984,2024-25,7382,2024-25,16289,2024-25
+CUNY Bernard M Baruch College,New York,NY,14170,11137,3033,2024-25,7464,2024-25,16154,2024-25
+CUNY Brooklyn College,Brooklyn,NY,14151,11048,3103,2024-25,7452,2024-25,10543,2024-25
+CUNY Lehman College,Bronx,NY,14121,10973,3148,2024-25,7410,2024-25,10696,2024-25
+CUNY John Jay College of Criminal Justice,New York,NY,14212,11009,3203,2024-25,7470,2024-25,11590,2024-25
+Texas A & M International University,Laredo,TX,15558,11921,3637,2024-25,7894,2024-25,6667,2024-25
+CUNY City College,New York,NY,14403,10627,3776,2024-25,7340,2024-25,12505,2024-25
+Ohio University-Eastern Campus,Saint Clairsville,OH,10777,6852,3925,2024-25,6362,2024-25,298,2024-25
+California State University-Los Angeles,Los Angeles,CA,18403,14436,3967,2024-25,7160,2024-25,19562,2024-25
+Indiana University-Kokomo,Kokomo,IN,11837,7869,3968,2024-25,8424,2024-25,2352,2024-25
+CUNY Queens College,Queens,NY,14367,10172,4195,2024-25,7538,2024-25,12550,2024-25
+CUNY York College,Jamaica,NY,14330,9874,4456,2024-25,7358,2024-25,4345,2024-25
+California State University-San Bernardino,San Bernardino,CA,17427,12863,4564,2024-25,8093,2024-25,15023,2024-25
+University of Florida-Online,Gainesville,FL,17843,13028,4815,2024-25,3876,2024-25,4627,2024-25
+The University of Texas Rio Grande Valley,Edinburg,TX,16830,11999,4831,2024-25,9987,2024-25,28666,2024-25
+Eastern New Mexico University-Main Campus,Portales,NM,18940,14036,4904,2024-25,7194,2024-25,3357,2024-25
+Dalton State College,Dalton,GA,12719,7707,5012,2024-25,3336,2024-25,4553,2024-25
+CUNY New York City College of Technology,Brooklyn,NY,14110,8983,5127,2024-25,7332,2024-25,13580,2024-25
+Indiana University-Northwest,Gary,IN,13989,8859,5130,2024-25,8424,2024-25,2661,2024-25
+College of Staten Island CUNY,Staten Island,NY,14795,9216,5579,2024-25,7490,2024-25,9657,2024-25
+Ohio University-Lancaster Campus,Lancaster,OH,10984,5334,5650,2024-25,6362,2024-25,691,2024-25
+California State University-Bakersfield,Bakersfield,CA,19522,13870,5652,2024-25,8090,2024-25,8577,2024-25
+Escuela de Artes Plasticas y Diseno de Puerto Rico,San Juan,PR,9057,3388,5669,2024-25,4902,2024-25,466,2024-25
+CUNY Medgar Evers College,Brooklyn,NY,14771,9053,5718,2024-25,7352,2024-25,3233,2024-25
+University of Akron Wayne College,Orrville,OH,15993,9961,6032,2024-25,7723,2024-25,457,2024-25
+California State University-Stanislaus,Turlock,CA,19739,13672,6067,2024-25,8246,2024-25,8385,2024-25
+Purdue University Northwest,Hammond,IN,15571,9492,6079,2024-25,8675,2024-25,5671,2024-25
+United States Merchant Marine Academy,Kings Point,NY,9168,2994,6174,2024-25,895,2024-25,962,2024-25
+Elizabeth City State University,Elizabeth City,NC,17701,11337,6364,2024-25,6536,2024-25,1975,2024-25
+University of North Texas at Dallas,Dallas,TX,20064,13644,6420,2024-25,9595,2024-25,2878,2024-25
+University of Florida,Gainesville,FL,22523,15982,6541,2024-25,6381,2024-25,35629,2024-25
+California State University-Fullerton,Fullerton,CA,18269,11714,6555,2024-25,7470,2024-25,38546,2024-25
+University of Science and Arts of Oklahoma,Chickasha,OK,20662,14038,6624,2024-25,9000,2024-25,941,2024-25
+Abraham Baldwin Agricultural College,Tifton,GA,13956,7114,6842,2024-25,3268,2024-25,3208,2024-25
+California State University-Fresno,Fresno,CA,20095,13095,7000,2024-25,7350,2024-25,21605,2024-25
+University of Michigan-Flint,Flint,MI,20915,13908,7007,2024-25,14704,2024-25,4411,2024-25
+California State University-Northridge,Northridge,CA,20485,13464,7021,2024-25,7458,2024-25,32691,2024-25
+Louisiana State University-Shreveport,Shreveport,LA,19461,12439,7022,2024-25,7518,2024-25,2153,2024-25
+University of Maine at Presque Isle,Presque Isle,ME,19113,12078,7035,2024-25,9402,2024-25,1913,2024-25
+Louisiana State University at Alexandria,Alexandria,LA,15550,8485,7065,2024-25,7050,2024-25,5632,2024-25
+New College of Florida,Sarasota,FL,24449,17254,7195,2024-25,6916,2024-25,843,2024-25
+Puerto Rico Conservatory of Music,San Juan,PR,12920,5660,7260,2024-25,3370,2024-25,307,2024-25
+Oklahoma Panhandle State University,Goodwell,OK,15055,7642,7413,2024-25,8092,2024-25,917,2024-25
+University of the Virgin Islands,Charlotte Amalie,VI,17771,10302,7469,2024-25,5957,2024-25,1518,2024-25
+University of Maine at Fort Kent,Fort Kent,ME,18703,11221,7482,2024-25,9420,2024-25,599,2024-25
+Marshall University,Huntington,WV,22022,14520,7502,2024-25,9162,2024-25,7266,2024-25
+University of Puerto Rico-Aguadilla,Aguadilla,PR,14498,6733,7765,2024-25,5954,2024-25,1883,2024-25
+Indiana University-Southeast,New Albany,IN,16411,8523,7888,2024-25,8424,2024-25,3170,2024-25
+Fayetteville State University,Fayetteville,NC,16652,8760,7892,2024-25,4353,2024-25,5762,2024-25
+Southeastern Oklahoma State University,Durant,OK,18594,10555,8039,2024-25,7530,2024-25,3018,2024-25
+Kentucky State University,Frankfort,KY,21727,13687,8040,2024-25,9387,2024-25,1309,2024-25
+Gordon State College,Barnesville,GA,14771,6666,8105,2024-25,3628,2024-25,2544,2024-25
+Texas A&M University-Victoria,Victoria,TX,21401,13292,8109,2024-25,7149,2024-25,2513,2024-25
+Indiana University-East,Richmond,IN,16954,8820,8134,2024-25,8424,2024-25,2589,2024-25
+Savannah State University,Savannah,GA,17191,9019,8172,2024-25,5750,2024-25,2833,2024-25
+Northern Kentucky University,Highland Heights,KY,19725,11534,8191,2024-25,11088,2024-25,8246,2024-25
+Clayton  State University,Morrow,GA,17415,9050,8365,2024-25,5180,2024-25,4348,2024-25
+University of Arkansas Grantham,LIttle Rock,AR,15318,6948,8370,2024-25,8520,2024-25,2833,2024-25
+University of Puerto Rico,Bayamon,PR,12501,4017,8484,2024-25,6284,2024-25,2851,2024-25
+Western New Mexico University,Silver City,NM,21562,13040,8522,2024-25,7856,2024-25,2026,2024-25
+University of Guam,Mangilao,GU,14961,6363,8598,2024-25,6110,2024-25,2515,2024-25
+California State University-Dominguez Hills,Carson,CA,23191,14576,8615,2024-25,7449,2024-25,12538,2024-25
+Ferris State University,Big Rapids,MI,27048,18424,8624,2024-25,14778,2024-25,8106,2024-25
+Indiana University-South Bend,South Bend,IN,17364,8711,8653,2024-25,8424,2024-25,3933,2024-25
+East Central University,Ada,OK,18459,9776,8683,2024-25,8032,2024-25,2467,2024-25
+Florida Atlantic University,Boca Raton,FL,21522,12770,8752,2024-25,4879,2024-25,23757,2024-25
+University of Minnesota-Morris,Morris,MN,27039,18202,8837,2024-25,14526,2024-25,936,2024-25
+New Mexico State University-Main Campus,Las Cruces,NM,23274,14385,8889,2024-25,8183,2024-25,11946,2024-25
+Fairmont State University,Fairmont,WV,20018,10986,9032,2024-25,8708,2024-25,2590,2024-25
+Murray State University,Murray,KY,23485,14389,9096,2024-25,9900,2024-25,6688,2024-25
+Oakland University,Rochester Hills,MI,25182,16062,9120,2024-25,15262,2024-25,12351,2024-25
+University of Puerto Rico-Rio Piedras,San Juan,PR,15118,5943,9175,2024-25,5354,2024-25,8572,2024-25
+University of Virginia's College at Wise,Wise,VA,26593,17383,9210,2024-25,11780,2024-25,1101,2024-25
+Florida International University,Miami,FL,21462,12174,9288,2024-25,6565,2024-25,39508,2024-25
+California State University-East Bay,Hayward,CA,22850,13530,9320,2024-25,7583,2024-25,9809,2024-25
+West Virginia University Institute of Technology,Beckley,WV,18907,9570,9337,2024-25,8424,2024-25,981,2024-25
+California State University-Sacramento,Sacramento,CA,22945,13607,9338,2024-25,8018,2024-25,28350,2024-25
+University of West Florida,Pensacola,FL,19947,10583,9364,2024-25,6360,2024-25,9330,2024-25
+Lamar University,Beaumont,TX,22254,12888,9366,2024-25,8905,2024-25,8150,2024-25
+The University of Texas at El Paso,El Paso,TX,19836,10433,9403,2024-25,9744,2024-25,21005,2024-25
+Rhode Island College,Providence,RI,17454,7976,9478,2024-25,11300,2024-25,5049,2024-25
+University of Michigan-Dearborn,Dearborn,MI,24040,14548,9492,2024-25,15640,2024-25,5952,2024-25
+Portland State University,Portland,OR,21590,12038,9552,2024-25,11679,2024-25,13182,2024-25
+Mississippi Valley State University,Itta Bena,MS,21154,11468,9686,2024-25,7692,2024-25,1439,2024-25
+Austin Peay State University,Clarksville,TN,22233,12498,9735,2024-25,9006,2024-25,7560,2024-25
+Morehead State University,Morehead,KY,21961,12168,9793,2024-25,10024,2024-25,4578,2024-25
+University of South Florida,Tampa,FL,22859,13047,9812,2024-25,6410,2024-25,37207,2024-25
+University of North Georgia,Dahlonega,GA,18177,8354,9823,2024-25,5285,2024-25,16146,2024-25
+University of Illinois Springfield,Springfield,IL,25521,15688,9833,2024-25,12252,2024-25,2263,2024-25
+California State University-Channel Islands,Camarillo,CA,23561,13712,9849,2024-25,7159,2024-25,5013,2024-25
+New Mexico Institute of Mining and Technology,Socorro,NM,24967,15094,9873,2024-25,9476,2024-25,995,2024-25
+Harris-Stowe State University,Saint Louis,MO,21493,11571,9922,2024-25,7008,2024-25,960,2024-25
+Concord University,Athens,WV,20434,10468,9966,2024-25,10664,2024-25,1504,2024-25
+Coppin State University,Baltimore,MD,23748,13771,9977,2024-25,7100,2024-25,1844,2024-25
+University of New Hampshire at Manchester,Manchester,NH,20020,10028,9992,2024-25,15838,2024-25,443,2024-25
+Colorado State University Pueblo,Pueblo,CO,23937,13886,10051,2024-25,9720,2024-25,3042,2024-25
+Northwestern Oklahoma State University,Alva,OK,18672,8568,10104,2024-25,5970,2024-25,1498,2024-25
+University of North Florida,Jacksonville,FL,20983,10829,10154,2024-25,6389,2024-25,13359,2024-25
+University of Washington-Tacoma Campus,Tacoma,WA,25346,15183,10163,2024-25,13168,2024-25,4185,2024-25
+University of Puerto Rico at Cayey,Cayey,PR,15909,5733,10176,2024-25,5354,2024-25,2069,2024-25
+California State University-San Marcos,San Marcos,CA,21649,11420,10229,2024-25,8082,2024-25,14877,2024-25
+University of North Carolina at Pembroke,Pembroke,NC,17261,7001,10260,2024-25,3648,2024-25,5330,2024-25
+University of Hawaii-West Oahu,Kapolei,HI,18410,8083,10327,2024-25,7584,2024-25,2519,2024-25
+Fort Valley State University,Fort Valley,GA,19879,9541,10338,2024-25,5526,2024-25,2684,2024-25
+University of Nevada-Las Vegas,Las Vegas,NV,19638,9279,10359,2024-25,9748,2024-25,24622,2024-25
+University of Central Florida,Orlando,FL,23133,12722,10411,2024-25,6368,2024-25,59146,2024-25
+California State University-Long Beach,Long Beach,CA,22679,12239,10440,2024-25,7350,2024-25,35924,2024-25
+Southern Utah University,Cedar City,UT,19416,8954,10462,2024-25,6962,2024-25,9289,2024-25
+University of Houston-Downtown,Houston,TX,20749,10207,10542,2024-25,7708,2024-25,12555,2024-25
+University of Puerto Rico-Arecibo,Arecibo,PR,17710,7030,10680,2024-25,5354,2024-25,2669,2024-25
+The University of Tennessee-Martin,Martin,TN,23079,12378,10701,2024-25,10560,2024-25,4866,2024-25
+Saginaw Valley State University,University Center,MI,24936,14161,10775,2024-25,12930,2024-25,5989,2024-25
+Miami University-Middletown,Middletown,OH,14890,4081,10809,2024-25,7491,2024-25,837,2024-25
+The University of Texas at San Antonio,San Antonio,TX,22352,11516,10836,2024-25,9011,2024-25,30580,2024-25
+North Carolina A & T State University,Greensboro,NC,20427,9581,10846,2024-25,6813,2024-25,12182,2024-25
+University of New Hampshire College of Professional Studies Online,Manchester,NH,15451,4587,10864,2024-25,7724,2024-25,1157,2024-25
+Farmingdale State College,Farmingdale,NY,18966,8099,10867,2024-25,8626,2024-25,9552,2024-25
+Indiana State University,Terre Haute,IN,24535,13662,10873,2024-25,10258,2024-25,6188,2024-25
+University of Connecticut-Waterbury Campus,Waterbury,CT,22933,12058,10875,2024-25,18140,2024-25,733,2024-25
+University of Alaska Fairbanks,Fairbanks,AK,22407,11515,10892,2024-25,8736,2024-25,4207,2024-25
+Cameron University,Lawton,OK,19862,8950,10912,2024-25,7095,2024-25,2492,2024-25
+University of Maine at Augusta,Augusta,ME,19052,8128,10924,2024-25,8888,2024-25,2659,2024-25
+Valdosta State University,Valdosta,GA,20801,9856,10945,2024-25,6124,2024-25,6622,2024-25
+University of North Carolina at Greensboro,Greensboro,NC,21373,10408,10965,2024-25,7661,2024-25,14062,2024-25
+University of Illinois Chicago,Chicago,IL,27521,16547,10974,2024-25,14338,2024-25,22170,2024-25
+Western Kentucky University,Bowling Green,KY,24188,13198,10990,2024-25,11652,2024-25,12155,2024-25
+University of Puerto Rico at Ponce,Ponce,PR,17193,6203,10990,2024-25,5354,2024-25,2278,2024-25
+Eastern Kentucky University,Richmond,KY,23735,12695,11040,2024-25,10320,2024-25,12318,2024-25
+Wright State University-Lake Campus,Celina,OH,16340,5259,11081,2024-25,7728,2024-25,892,2024-25
+West Virginia State University,Institute,WV,19772,8633,11139,2024-25,9570,2024-25,1321,2024-25
+Texas A&M University-San Antonio,San Antonio,TX,21655,10459,11196,2024-25,9654,2024-25,6599,2024-25
+SUNY Old Westbury,Old Westbury,NY,21287,10005,11282,2024-25,8422,2024-25,4162,2024-25
+Miami University-Hamilton,Hamilton,OH,15352,4066,11286,2024-25,7491,2024-25,2043,2024-25
+Florida State University,Tallahassee,FL,25720,14423,11297,2024-25,5656,2024-25,32212,2024-25
+SUNY Buffalo State University,Buffalo,NY,24279,12933,11346,2024-25,8533,2024-25,5097,2024-25
+Shepherd University,Shepherdstown,WV,19601,8238,11363,2024-25,9056,2024-25,2344,2024-25
+Francis Marion University,Florence,SC,23850,12464,11386,2024-25,11160,2024-25,2628,2024-25
+Mayville State University,Mayville,ND,20657,9201,11456,2024-25,7979,2024-25,733,2024-25
+California State Polytechnic University-Pomona,Pomona,CA,23955,12424,11531,2024-25,7780,2024-25,25042,2024-25
+Peru State College,Peru,NE,22240,10608,11632,2024-25,8640,2024-25,1092,2024-25
+University of South Carolina Aiken,Aiken,SC,21540,9899,11641,2024-25,10760,2024-25,2962,2024-25
+University of North Carolina at Chapel Hill,Chapel Hill,NC,26055,14400,11655,2024-25,8994,2024-25,20752,2024-25
+Midwestern State University,Wichita Falls,TX,22652,10996,11656,2024-25,10580,2024-25,4087,2024-25
+Indiana University-Indianapolis,Indianapolis,IN,23316,11648,11668,2024-25,10762,2024-25,13830,2024-25
+Empire State University,Saratoga Springs,NY,19699,8023,11676,2024-25,7648,2024-25,7585,2024-25
+University of Wisconsin-Parkside,Kenosha,WI,18199,6427,11772,2024-25,8270,2024-25,2844,2024-25
+East Texas A&M University,Commerce,TX,23438,11597,11841,2024-25,10026,2024-25,9912,2024-25
+Florida Polytechnic University,Lakeland,FL,21817,9964,11853,2024-25,4940,2024-25,1689,2024-25
+University of Hawaii at Hilo,Hilo,HI,21173,9317,11856,2024-25,7838,2024-25,2160,2024-25
+Louisiana Tech University,Ruston,LA,24280,12416,11864,2024-25,10125,2024-25,8312,2024-25
+Valley City State University,Valley City,ND,20468,8578,11890,2024-25,8514,2024-25,958,2024-25
+Albany State University,Albany,GA,19333,7435,11898,2024-25,5656,2024-25,5956,2024-25
+University of Colorado Denver/Anschutz Medical Campus,Denver,CO,24902,13002,11900,2024-25,10383,2024-25,10519,2024-25
+Texas Woman's University,Denton,TX,22234,10271,11963,2024-25,8640,2024-25,8767,2024-25
+University of California-Merced,Merced,CA,39665,27682,11983,2024-25,15623,2024-25,8372,2024-25
+Missouri Southern State University,Joplin,MO,19568,7561,12007,2024-25,8960,2024-25,3019,2024-25
+Georgia Southwestern State University,Americus,GA,20484,8465,12019,2024-25,5220,2024-25,2424,2024-25
+Texas A&M University-Kingsville,Kingsville,TX,24060,11970,12090,2024-25,9892,2024-25,4748,2024-25
+Georgia Institute of Technology-Main Campus,Atlanta,GA,28167,16051,12116,2024-25,12058,2024-25,18785,2024-25
+University of North Alabama,Florence,AL,23786,11616,12170,2024-25,12120,2024-25,5811,2024-25
+Idaho State University,Pocatello,ID,21527,9334,12193,2024-25,8610,2024-25,7583,2024-25
+University of Minnesota-Crookston,Crookston,MN,26068,13856,12212,2024-25,13288,2024-25,1729,2024-25
+University of Wisconsin-Superior,Superior,WI,19860,7640,12220,2024-25,8812,2024-25,1807,2024-25
+University of North Carolina Asheville,Asheville,NC,21685,9435,12250,2024-25,7501,2024-25,2910,2024-25
+San Francisco State University,San Francisco,CA,26488,14210,12278,2024-25,7950,2024-25,18639,2024-25
+University of Washington-Bothell Campus,Bothell,WA,26908,14589,12319,2024-25,12919,2024-25,5457,2024-25
+Governors State University,University Park,IL,24227,11898,12329,2024-25,12004,2024-25,2556,2024-25
+Chicago State University,Chicago,IL,29764,17429,12335,2024-25,12754,2024-25,1384,2024-25
+Middle Georgia State University,Macon,GA,19617,7256,12361,2024-25,5038,2024-25,6574,2024-25
+Arkansas State University,Jonesboro,AR,25082,12716,12366,2024-25,8090,2024-25,9110,2024-25
+University of New Orleans,New Orleans,LA,23431,11047,12384,2024-25,9172,2024-25,4638,2024-25
+University of Memphis,Memphis,TN,25169,12772,12397,2024-25,10728,2024-25,12701,2024-25
+Mississippi University for Women,Columbus,MS,22225,9814,12411,2024-25,8492,2024-25,1605,2024-25
+Kean University,Union,NJ,26949,14502,12447,2024-25,14299,2024-25,11433,2024-25
+University of California-San Diego,La Jolla,CA,38701,26231,12470,2024-25,16758,2024-25,34948,2024-25
+McNeese State University,Lake Charles,LA,22810,10317,12493,2024-25,8489,2024-25,5005,2024-25
+University of California-Los Angeles,Los Angeles,CA,38614,26066,12548,2024-25,15203,2024-25,33475,2024-25
+Chadron State College,Chadron,NE,21132,8583,12549,2024-25,8290,2024-25,1540,2024-25
+Florida Gulf Coast University,Fort Myers,FL,20807,8239,12568,2024-25,6118,2024-25,13874,2024-25
+Fort Hays State University,Hays,KS,19909,7340,12569,2024-25,5923,2024-25,9733,2024-25
+Institute of American Indian and Alaska Native Culture and Arts Development,Santa Fe,NM,24854,12284,12570,2024-25,5920,2024-25,334,2024-25
+University of Arkansas at Pine Bluff,Pine Bluff,AR,21129,8476,12653,2024-25,9412,2024-25,1807,2024-25
+Montana State University-Northern,Havre,MT,16578,3914,12664,2024-25,6982,2024-25,761,2024-25
+University of Puerto Rico-Humacao,Humacao,PR,19547,6872,12675,2024-25,5364,2024-25,2529,2024-25
+University of West Alabama,Livingston,AL,22758,10074,12684,2024-25,10990,2024-25,2974,2024-25
+Minot State University,Minot,ND,19339,6636,12703,2024-25,8702,2024-25,2062,2024-25
+Northeastern State University,Tahlequah,OK,21551,8841,12710,2024-25,7810,2024-25,4772,2024-25
+The University of Texas Permian Basin,Odessa,TX,23886,11163,12723,2024-25,9236,2024-25,3911,2024-25
+Wayne State University,Detroit,MI,27350,14584,12766,2024-25,15190,2024-25,15587,2024-25
+Youngstown State University,Youngstown,OH,21708,8941,12767,2024-25,11113,2024-25,7961,2024-25
+Truman State University,Kirksville,MO,25115,12335,12780,2024-25,9838,2024-25,2513,2024-25
+University of West Georgia,Carrollton,GA,21981,9195,12786,2024-25,6088,2024-25,7520,2024-25
+Eastern Illinois University,Charleston,IL,26996,14210,12786,2024-25,13679,2024-25,4188,2024-25
+The University of Tennessee Southern,Pulaski,TN,24750,11952,12798,2024-25,10924,2024-25,864,2024-25
+Lake Superior State University,Sault Ste Marie,MI,27154,14332,12822,2024-25,14890,2024-25,1325,2024-25
+Sonoma State University,Rohnert Park,CA,24648,11763,12885,2024-25,8624,2024-25,5166,2024-25
+Western Illinois University,Macomb,IL,28254,15317,12937,2024-25,15264,2024-25,4410,2024-25
+Ohio State University-Lima Campus,Lima,OH,19487,6547,12940,2024-25,9488,2024-25,621,2024-25
+University of Puerto Rico-Carolina,Carolina,PR,19396,6451,12945,2024-25,7986,2024-25,2404,2024-25
+Nicholls State University,Thibodaux,LA,23481,10534,12947,2024-25,8149,2024-25,4737,2024-25
+Adams State University,Alamosa,CO,24352,11372,12980,2024-25,9824,2024-25,1250,2024-25
+Texas A&M University-Texarkana,Texarkana,TX,23778,10781,12997,2024-25,8349,2024-25,1982,2024-25
+Central State University,Wilberforce,OH,21929,8833,13096,2024-25,8058,2024-25,2620,2024-25
+Columbus State University,Columbus,GA,21676,8561,13115,2024-25,5898,2024-25,5625,2024-25
+University of Michigan-Ann Arbor,Ann Arbor,MI,34654,21516,13138,2024-25,17736,2024-25,34177,2024-25
+Southeastern Louisiana University,Hammond,LA,23604,10450,13154,2024-25,8373,2024-25,9514,2024-25
+California State Polytechnic University-Humboldt,Arcata,CA,25170,11999,13171,2024-25,8250,2024-25,5612,2024-25
+Purdue University Fort Wayne,Fort Wayne,IN,22183,9012,13171,2024-25,9532,2024-25,5484,2024-25
+Wichita State University,Wichita,KS,21780,8586,13194,2024-25,9684,2024-25,10780,2024-25
+Auburn University at Montgomery,Montgomery,AL,21353,8129,13224,2024-25,9700,2024-25,2542,2024-25
+Missouri Western State University,Saint Joseph,MO,21595,8344,13251,2024-25,10306,2024-25,2219,2024-25
+Alcorn State University,Alcorn State,MS,23751,10486,13265,2024-25,8785,2024-25,2363,2024-25
+Sul Ross State University,Alpine,TX,24529,11243,13286,2024-25,7592,2024-25,1396,2024-25
+Southern Illinois University-Carbondale,Carbondale,IL,28329,15032,13297,2024-25,13334,2024-25,8494,2024-25
+University of Missouri-Kansas City,Kansas City,MO,25320,12010,13310,2024-25,12587,2024-25,6817,2024-25
+University of Mississippi,University,MS,28660,15346,13314,2024-25,9772,2024-25,21473,2024-25
+Western Carolina University,Cullowhee,NC,19992,6677,13315,2024-25,4630,2024-25,10024,2024-25
+The University of Texas at Tyler,Tyler,TX,24505,11182,13323,2024-25,9736,2024-25,7440,2024-25
+University of Maryland Eastern Shore,Princess Anne,MD,25941,12603,13338,2024-25,9076,2024-25,2391,2024-25
+Middle Tennessee State University,Murfreesboro,TN,24289,10930,13359,2024-25,10266,2024-25,16301,2024-25
+University of Wisconsin-Green Bay,Green Bay,WI,19366,5997,13369,2024-25,8700,2024-25,6341,2024-25
+Worcester State University,Worcester,MA,22874,9493,13381,2024-25,11786,2024-25,3930,2024-25
+Northern Illinois University,Dekalb,IL,28851,15460,13391,2024-25,13248,2024-25,11301,2024-25
+University of Nebraska at Omaha,Omaha,NE,21120,7679,13441,2024-25,8718,2024-25,11488,2024-25
+University of Louisiana at Monroe,Monroe,LA,24932,11466,13466,2024-25,9190,2024-25,5022,2024-25
+Winston-Salem State University,Winston-Salem,NC,23147,9668,13479,2024-25,6126,2024-25,4170,2024-25
+University of California-Berkeley,Berkeley,CA,45619,32138,13481,2024-25,16347,2024-25,33068,2024-25
+Saint Cloud State University,Saint Cloud,MN,21116,7587,13529,2024-25,10245,2024-25,5088,2024-25
+University of Louisiana at Lafayette,Lafayette,LA,24884,11354,13530,2024-25,10418,2024-25,12428,2024-25
+Delta State University,Cleveland,MS,22445,8905,13540,2024-25,8605,2024-25,1620,2024-25
+University of South Carolina-Upstate,Spartanburg,SC,25124,11567,13557,2024-25,11588,2024-25,4038,2024-25
+Prairie View A & M University,Prairie View,TX,26362,12792,13570,2024-25,11299,2024-25,8877,2024-25
+University of Southern Maine,Portland,ME,23717,10121,13596,2024-25,11284,2024-25,4222,2024-25
+University of Wyoming,Laramie,WY,24818,11219,13599,2024-25,7768,2024-25,7944,2024-25
+Northwestern State University of Louisiana,Natchitoches,LA,25431,11825,13606,2024-25,8864,2024-25,5519,2024-25
+SUNY College at Potsdam,Potsdam,NY,25083,11459,13624,2024-25,8768,2024-25,1823,2024-25
+California State University-Monterey Bay,Seaside,CA,26987,13324,13663,2024-25,7779,2024-25,6819,2024-25
+Bluefield State University,Bluefield,WV,21839,8155,13684,2024-25,10648,2024-25,1042,2024-25
+Florida Agricultural and Mechanical University,Tallahassee,FL,23970,10231,13739,2024-25,5785,2024-25,7582,2024-25
+University of Minnesota-Rochester,Rochester,MN,28904,15160,13744,2024-25,15016,2024-25,568,2024-25
+San Jose State University,San Jose,CA,26593,12833,13760,2024-25,8410,2024-25,27601,2024-25
+Augusta University,Augusta,GA,23524,9737,13787,2024-25,8414,2024-25,5613,2024-25
+University of Connecticut-Avery Point,Groton,CT,23337,9530,13807,2024-25,18140,2024-25,454,2024-25
+University of Baltimore,Baltimore,MD,26406,12538,13868,2024-25,9992,2024-25,1133,2024-25
+Eastern Washington University,Cheney,WA,24478,10592,13886,2024-25,8586,2024-25,6222,2024-25
+Delaware State University,Dover,DE,27939,14029,13910,2024-25,10670,2024-25,4398,2024-25
+University of Georgia,Athens,GA,27993,14057,13936,2024-25,11450,2024-25,32137,2024-25
+University of Akron Main Campus,Akron,OH,26284,12338,13946,2024-25,13135,2024-25,9052,2024-25
+The University of Texas at Arlington,Arlington,TX,25261,11310,13951,2024-25,11950,2024-25,32294,2024-25
+Coastal Carolina University,Conway,SC,26692,12726,13966,2024-25,11640,2024-25,10377,2024-25
+Glenville State University,Glenville,WV,23591,9585,14006,2024-25,9578,2024-25,1096,2024-25
+Southern Arkansas University Main Campus,Magnolia,AR,24951,10924,14027,2024-25,9960,2024-25,2708,2024-25
+University of Wisconsin-River Falls,River Falls,WI,19781,5727,14054,2024-25,9008,2024-25,4205,2024-25
+Nevada State University,Henderson,NV,23718,9650,14068,2024-25,6765,2024-25,3762,2024-25
+Northern Michigan University,Marquette,MI,27841,13756,14085,2024-25,14277,2024-25,6556,2024-25
+University of Washington-Seattle Campus,Seattle,WA,32446,18355,14091,2024-25,12973,2024-25,31942,2024-25
+Dickinson State University,Dickinson,ND,20567,6475,14092,2024-25,9118,2024-25,1090,2024-25
+Northeastern Illinois University,Chicago,IL,26960,12851,14109,2024-25,12383,2024-25,3982,2024-25
+Northern Arizona University,Flagstaff,AZ,29933,15775,14158,2024-25,13009,2024-25,22903,2024-25
+University of Wisconsin-Whitewater,Whitewater,WI,18719,4561,14158,2024-25,8616,2024-25,9405,2024-25
+SUNY Polytechnic Institute,Utica,NY,23741,9577,14164,2024-25,8625,2024-25,1849,2024-25
+Michigan Technological University,Houghton,MI,34152,19970,14182,2024-25,19123,2024-25,5955,2024-25
+Tennessee Technological University,Cookeville,TN,25663,11417,14246,2024-25,11376,2024-25,8698,2024-25
+University of California-Irvine,Irvine,CA,38632,24381,14251,2024-25,15722,2024-25,30197,2024-25
+Stephen F Austin State University,Nacogdoches,TX,25791,11531,14260,2024-25,11128,2024-25,8728,2024-25
+Fitchburg State University,Fitchburg,MA,25555,11293,14262,2024-25,11346,2024-25,2752,2024-25
+Cheyney University of Pennsylvania,Cheyney,PA,26782,12517,14265,2024-25,10904,2024-25,617,2024-25
+The University of Tennessee-Chattanooga,Chattanooga,TN,25489,11224,14265,2024-25,10448,2024-25,10074,2024-25
+University of Houston,Houston,TX,26185,11909,14276,2024-25,9717,2024-25,38380,2024-25
+Jacksonville State University,Jacksonville,AL,24257,9978,14279,2024-25,12894,2024-25,7036,2024-25
+University of California-Riverside,Riverside,CA,38942,24638,14304,2024-25,15606,2024-25,22593,2024-25
+University of Wisconsin-Oshkosh,Oshkosh,WI,19652,5347,14305,2024-25,8532,2024-25,6877,2024-25
+University of Illinois Urbana-Champaign,Champaign,IL,33642,19287,14355,2024-25,16004,2024-25,36258,2024-25
+Shawnee State University,Portsmouth,OH,21974,7593,14381,2024-25,10626,2024-25,2247,2024-25
+Southwestern Oklahoma State University,Weatherford,OK,23334,8875,14459,2024-25,8469,2024-25,3514,2024-25
+University of Central Missouri,Warrensburg,MO,22947,8485,14462,2024-25,10050,2024-25,5648,2024-25
+California State University-Chico,Chico,CA,26283,11803,14480,2024-25,8472,2024-25,13631,2024-25
+University of Wisconsin-Stevens Point,Stevens Point,WI,20079,5520,14559,2024-25,9488,2024-25,7306,2024-25
+Radford University,Radford,VA,28405,13827,14578,2024-25,12548,2024-25,6038,2024-25
+Pennsylvania State University-Penn State Fayette- Eberly,Lemont Furnace,PA,25154,10558,14596,2024-25,14408,2024-25,402,2024-25
+Purdue University-Main Campus,West Lafayette,IN,24591,9991,14600,2024-25,9992,2024-25,44503,2024-25
+Old Dominion University,Norfolk,VA,29446,14808,14638,2024-25,12750,2024-25,17514,2024-25
+University of South Carolina Beaufort,Bluffton,SC,24353,9697,14656,2024-25,10730,2024-25,2052,2024-25
+University of California-Davis,Davis,CA,41238,26497,14741,2024-25,16774,2024-25,32253,2024-25
+Cleveland State University,Cleveland,OH,27159,12395,14764,2024-25,12988,2024-25,8969,2024-25
+Southern University at New Orleans,New Orleans,LA,23905,9095,14810,2024-25,8054,2024-25,1055,2024-25
+University of Idaho,Moscow,ID,23738,8907,14831,2024-25,9084,2024-25,7747,2024-25
+New Mexico Highlands University,Las Vegas,NM,20868,6030,14838,2024-25,7416,2024-25,1451,2024-25
+Southern Illinois University Edwardsville,Edwardsville,IL,28919,14030,14889,2024-25,12922,2024-25,8750,2024-25
+University of North Carolina School of the Arts,Winston Salem,NC,26470,11564,14906,2024-25,9477,2024-25,945,2024-25
+Utah State University,Logan,UT,21654,6718,14936,2024-25,9228,2024-25,20272,2024-25
+Ball State University,Muncie,IN,26146,11206,14940,2024-25,11082,2024-25,13988,2024-25
+Arizona State University Campus Immersion,Tempe,AZ,30111,15144,14967,2024-25,12223,2024-25,64674,2024-25
+Washington State University,Pullman,WA,27648,12677,14971,2024-25,13391,2024-25,21099,2024-25
+Lincoln University,Lincoln University,PA,28505,13528,14977,2024-25,12512,2024-25,1539,2024-25
+Morgan State University,Baltimore,MD,25413,10428,14985,2024-25,8229,2024-25,9019,2024-25
+University of Wisconsin-Milwaukee,Milwaukee,WI,22756,7742,15014,2024-25,10398,2024-25,16758,2024-25
+Kennesaw State University,Kennesaw,GA,24008,8960,15048,2024-25,5808,2024-25,41254,2024-25
+University of Missouri-St Louis,Saint Louis,MO,31199,16128,15071,2024-25,14112,2024-25,5024,2024-25
+Angelo State University,San Angelo,TX,23441,8350,15091,2024-25,8460,2024-25,5643,2024-25
+Texas A & M University-Corpus Christi,Corpus Christi,TX,25210,9985,15225,2024-25,9748,2024-25,8034,2024-25
+Bemidji State University,Bemidji,MN,22744,7483,15261,2024-25,10237,2024-25,3139,2024-25
+Georgia Southern University,Statesboro,GA,24430,9163,15267,2024-25,6022,2024-25,21790,2024-25
+SUNY College of Technology at Canton,Canton,NY,24906,9638,15268,2024-25,8742,2024-25,2741,2024-25
+Western Michigan University,Kalamazoo,MI,29237,13964,15273,2024-25,15252,2024-25,12568,2024-25
+Washburn University,Topeka,KS,21512,6232,15280,2024-25,9945,2024-25,4562,2024-25
+Norfolk State University,Norfolk,VA,26633,11351,15282,2024-25,10180,2024-25,5392,2024-25
+Southwest Minnesota State University,Marshall,MN,24757,9466,15291,2024-25,10361,2024-25,2315,2024-25
+University of Oklahoma-Norman Campus,Norman,OK,28872,13572,15300,2024-25,9797,2024-25,22734,2024-25
+University of Alaska Anchorage,Anchorage,AK,24096,8795,15301,2024-25,7738,2024-25,7212,2024-25
+Rogers State University,Claremore,OK,21064,5750,15314,2024-25,7750,2024-25,2657,2024-25
+Metropolitan State University of Denver,Denver,CO,24622,9295,15327,2024-25,11124,2024-25,15002,2024-25
+Winthrop University,Rock Hill,SC,30710,15367,15343,2024-25,14678,2024-25,3523,2024-25
+University of Pittsburgh-Bradford,Bradford,PA,30478,15128,15350,2024-25,14770,2024-25,995,2024-25
+North Carolina Central University,Durham,NC,26556,11197,15359,2024-25,6699,2024-25,6081,2024-25
+Wayne State College,Wayne,NE,22565,7205,15360,2024-25,8216,2024-25,3010,2024-25
+Lander University,Greenwood,SC,27277,11914,15363,2024-25,11700,2024-25,3397,2024-25
+San Diego State University,San Diego,CA,27780,12416,15364,2024-25,8728,2024-25,35377,2024-25
+West Liberty University,West Liberty,WV,23809,8443,15366,2024-25,8893,2024-25,1511,2024-25
+Eastern Michigan University,Ypsilanti,MI,29640,14233,15407,2024-25,16240,2024-25,10055,2024-25
+Wright State University-Main Campus,Dayton,OH,24373,8958,15415,2024-25,11522,2024-25,6762,2024-25
+University of North Carolina at Charlotte,Charlotte,NC,23010,7575,15435,2024-25,7239,2024-25,24453,2024-25
+University of New Mexico-Main Campus,Albuquerque,NM,21259,5770,15489,2024-25,10140,2024-25,17244,2024-25
+Pennsylvania State University-Penn State Greater Allegheny,McKeesport,PA,26214,10693,15521,2024-25,14408,2024-25,349,2024-25
+North Dakota State University-Main Campus,Fargo,ND,23716,8173,15543,2024-25,11110,2024-25,9471,2024-25
+University of Houston-Clear Lake,Houston,TX,24622,9059,15563,2024-25,7770,2024-25,6078,2024-25
+Montclair State University,Montclair,NJ,28305,12739,15566,2024-25,15912,2024-25,18376,2024-25
+West Virginia University,Morgantown,WV,26415,10781,15634,2024-25,10104,2024-25,17385,2024-25
+Lewis-Clark State College,Lewiston,ID,21925,6290,15635,2024-25,7610,2024-25,2385,2024-25
+University of North Texas,Denton,TX,26243,10594,15649,2024-25,11309,2024-25,34341,2024-25
+University of Hawaii at Manoa,Honolulu,HI,26433,10769,15664,2024-25,12186,2024-25,15029,2024-25
+University of Maryland-College Park,College Park,MD,29299,13621,15678,2024-25,11809,2024-25,30760,2024-25
+Commonwealth University of Pennsylvania,Bloomsburg,PA,25161,9462,15699,2024-25,11046,2024-25,9210,2024-25
+Oregon Institute of Technology,Klamath Falls,OR,27524,11818,15706,2024-25,13260,2024-25,2892,2024-25
+East Carolina University,Greenville,NC,23867,8128,15739,2024-25,7361,2024-25,19896,2024-25
+Pittsburg State University,Pittsburg,KS,22099,6315,15784,2024-25,8400,2024-25,4210,2024-25
+University of Colorado Colorado Springs,Colorado Springs,CO,24595,8807,15788,2024-25,10149,2024-25,8697,2024-25
+Tennessee State University,Nashville,TN,25637,9841,15796,2024-25,8616,2024-25,4848,2024-25
+Northern State University,Aberdeen,SD,22077,6265,15812,2024-25,8845,2024-25,1273,2024-25
+Charter Oak State College,New Britain,CT,23210,7395,15815,2024-25,8506,2024-25,1821,2024-25
+Virginia State University,Petersburg,VA,27661,11821,15840,2024-25,10043,2024-25,5074,2024-25
+Georgia Gwinnett College,Lawrenceville,GA,22547,6703,15844,2024-25,4532,2024-25,11344,2024-25
+Southeast Missouri State University,Cape Girardeau,MO,25177,9295,15882,2024-25,9903,2024-25,6373,2024-25
+SUNY at Fredonia,Fredonia,NY,25879,9982,15897,2024-25,8831,2024-25,2755,2024-25
+University of Northern Iowa,Cedar Falls,IA,22278,6377,15901,2024-25,9936,2024-25,7529,2024-25
+Black Hills State University,Spearfish,SD,21277,5366,15911,2024-25,8764,2024-25,1928,2024-25
+University of Nevada-Reno,Reno,NV,25786,9859,15927,2024-25,9578,2024-25,15599,2024-25
+Georgia State University,Atlanta,GA,28241,12310,15931,2024-25,8664,2024-25,26623,2024-25
+East Tennessee State University,Johnson City,TN,27042,11059,15983,2024-25,10472,2024-25,10004,2024-25
+Salem State University,Salem,MA,28291,12295,15996,2024-25,12338,2024-25,4291,2024-25
+University of Wisconsin-Platteville,Platteville,WI,21266,5234,16032,2024-25,8644,2024-25,5837,2024-25
+New Jersey City University,Jersey City,NJ,28255,12202,16053,2024-25,14460,2024-25,3681,2024-25
+Massachusetts College of Liberal Arts,North Adams,MA,26026,9958,16068,2024-25,12436,2024-25,713,2024-25
+University of California-Santa Barbara,Santa Barbara,CA,41573,25464,16109,2024-25,16414,2024-25,23113,2024-25
+Framingham State University,Framingham,MA,27413,11299,16114,2024-25,11920,2024-25,2566,2024-25
+University of Utah,Salt Lake City,UT,25557,9357,16200,2024-25,9620,2024-25,27264,2024-25
+University of Wisconsin-La Crosse,La Crosse,WI,19593,3383,16210,2024-25,10070,2024-25,9277,2024-25
+State University of New York at Oswego,Oswego,NY,27052,10816,16236,2024-25,8825,2024-25,5473,2024-25
+University of Nebraska at Kearney,Kearney,NE,25808,9566,16242,2024-25,8676,2024-25,4088,2024-25
+Northwest Missouri State University,Maryville,MO,24945,8701,16244,2024-25,10611,2024-25,4378,2024-25
+Emporia State University,Emporia,KS,21967,5706,16261,2024-25,7106,2024-25,2239,2024-25
+Indiana University-Bloomington,Bloomington,IN,28801,12537,16264,2024-25,12144,2024-25,37806,2024-25
+Missouri University of Science and Technology,Rolla,MO,29231,12933,16298,2024-25,14984,2024-25,5521,2024-25
+Grand Valley State University,Allendale,MI,28367,12050,16317,2024-25,15140,2024-25,18854,2024-25
+SUNY Brockport,Brockport,NY,26046,9693,16353,2024-25,8752,2024-25,5784,2024-25
+Bridgewater State University,Bridgewater,MA,26160,9777,16383,2024-25,11808,2024-25,7829,2024-25
+University of Connecticut-Hartford Campus,Hartford,CT,26946,10543,16403,2024-25,18130,2024-25,1525,2024-25
+Sam Houston State University,Huntsville,TX,25505,9101,16404,2024-25,9228,2024-25,17743,2024-25
+Western Colorado University,Gunnison,CO,25736,9311,16425,2024-25,11318,2024-25,1586,2024-25
+Pennsylvania State University-Penn State Wilkes-Barre,Dallas,PA,25994,9546,16448,2024-25,14280,2024-25,313,2024-25
+University of Maryland-Baltimore County,Baltimore,MD,28576,12109,16467,2024-25,13256,2024-25,10701,2024-25
+Montana Technological University,Butte,MT,22786,6305,16481,2024-25,8340,2024-25,1480,2024-25
+New Jersey Institute of Technology,Newark,NJ,32859,16355,16504,2024-25,19974,2024-25,9019,2024-25
+Colorado State University Global,Denver,CO,21201,4691,16510,2024-25,9000,2024-25,6563,2024-25
+University of Central Arkansas,Conway,AR,25029,8518,16511,2024-25,10523,2024-25,7762,2024-25
+Montana State University Billings,Billings,MT,20054,3530,16524,2024-25,7280,2024-25,2626,2024-25
+Troy University,Troy,AL,23165,6638,16527,2024-25,10176,2024-25,9805,2024-25
+University of Wisconsin-Eau Claire,Eau Claire,WI,21705,5155,16550,2024-25,9642,2024-25,8895,2024-25
+The University of Montana-Western,Dillon,MT,21403,4845,16558,2024-25,6670,2024-25,1198,2024-25
+Texas Southern University,Houston,TX,27052,10462,16590,2024-25,9173,2024-25,6844,2024-25
+California Polytechnic State University-San Luis Obispo,San Luis Obispo,CA,32265,15600,16665,2024-25,13596,2024-25,21996,2024-25
+University of Arizona,Tucson,AZ,29423,12749,16674,2024-25,13926,2024-25,42537,2024-25
+Frostburg State University,Frostburg,MD,27056,10341,16715,2024-25,10220,2024-25,2909,2024-25
+Westfield State University,Westfield,MA,27649,10928,16721,2024-25,12179,2024-25,3615,2024-25
+Southern Oregon University,Ashland,OR,27636,10904,16732,2024-25,12762,2024-25,2751,2024-25
+University of Minnesota-Twin Cities,Minneapolis,MN,30061,13283,16778,2024-25,17214,2024-25,31855,2024-25
+The University of Montana,Missoula,MT,23570,6786,16784,2024-25,8552,2024-25,7488,2024-25
+University of Connecticut-Stamford,Stamford,CT,30122,13324,16798,2024-25,18150,2024-25,2432,2024-25
+Indiana University of Pennsylvania,Indiana,PA,26898,10094,16804,2024-25,11380,2024-25,6764,2024-25
+Texas State University,San Marcos,TX,28073,11268,16805,2024-25,11450,2024-25,36177,2024-25
+Appalachian State University,Boone,NC,23169,6333,16836,2024-25,7579,2024-25,19444,2024-25
+Central Connecticut State University,New Britain,CT,24870,8013,16857,2024-25,13050,2024-25,7822,2024-25
+University of Maine at Farmington,Farmington,ME,25822,8965,16857,2024-25,11308,2024-25,1140,2024-25
+Metropolitan State University,Saint Paul,MN,25172,8309,16863,2024-25,9840,2024-25,5616,2024-25
+Virginia Military Institute,Lexington,VA,34824,17711,17113,2024-25,21046,2024-25,1527,2024-25
+Eastern Oregon University,La Grande,OR,26718,9570,17148,2024-25,11076,2024-25,2172,2024-25
+State University of New York at Plattsburgh,Plattsburgh,NY,28244,11088,17156,2024-25,9035,2024-25,3769,2024-25
+University of Massachusetts-Lowell,Lowell,MA,30786,13623,17163,2024-25,16966,2024-25,11434,2024-25
+University at Albany,Albany,NY,28802,11635,17167,2024-25,10866,2024-25,12564,2024-25
+Western Oregon University,Monmouth,OR,25062,7825,17237,2024-25,11879,2024-25,3103,2024-25
+University of Arkansas at Little Rock,Little Rock,AR,22519,5271,17248,2024-25,9748,2024-25,4949,2024-25
+University of Toledo,Toledo,OH,26512,9263,17249,2024-25,12744,2024-25,9770,2024-25
+Fort Lewis College,Durango,CO,27030,9734,17296,2024-25,9958,2024-25,3079,2024-25
+North Carolina State University at Raleigh,Raleigh,NC,26425,9122,17303,2024-25,8799,2024-25,27371,2024-25
+Ohio State University-Main Campus,Columbus,OH,30305,12966,17339,2024-25,13244,2024-25,45638,2024-25
+University of Wisconsin-Madison,Madison,WI,28679,11325,17354,2024-25,11603,2024-25,36902,2024-25
+Towson University,Towson,MD,28535,11122,17413,2024-25,11728,2024-25,16136,2024-25
+Pennsylvania State University-Penn State Beaver,Monaca,PA,26210,8792,17418,2024-25,14408,2024-25,482,2024-25
+Pennsylvania State University-Penn State DuBois,DuBois,PA,28530,11102,17428,2024-25,14408,2024-25,349,2024-25
+Oklahoma State University-Main Campus,Stillwater,OK,28290,10843,17447,2024-25,10234,2024-25,21773,2024-25
+University of Wisconsin-Stout,Menomonie,WI,22797,5307,17490,2024-25,10701,2024-25,5842,2024-25
+Winona State University,Winona,MN,23683,6180,17503,2024-25,10576,2024-25,5144,2024-25
+University of Maine,Orono,ME,27328,9818,17510,2024-25,13326,2024-25,8496,2024-25
+Mississippi State University,Mississippi State,MS,29267,11672,17595,2024-25,10202,2024-25,18397,2024-25
+Central Michigan University,Mount Pleasant,MI,30681,13084,17597,2024-25,14760,2024-25,10035,2024-25
+Pennsylvania State University-Penn State Hazleton,Hazleton,PA,29677,12080,17597,2024-25,15208,2024-25,501,2024-25
+Western Connecticut State University,Danbury,CT,24877,7273,17604,2024-25,13401,2024-25,3511,2024-25
+Missouri State University-Springfield,Springfield,MO,25048,7435,17613,2024-25,9502,2024-25,13313,2024-25
+Alabama A & M University,Normal,AL,27153,9532,17621,2024-25,10024,2024-25,6124,2024-25
+University of South Alabama,Mobile,AL,25476,7828,17648,2024-25,10116,2024-25,8879,2024-25
+University of Montevallo,Montevallo,AL,27398,9715,17683,2024-25,13948,2024-25,2151,2024-25
+University of Massachusetts-Boston,Boston,MA,30544,12837,17707,2024-25,15908,2024-25,11512,2024-25
+Salisbury University,Salisbury,MD,28310,10567,17743,2024-25,11084,2024-25,6057,2024-25
+University of Nebraska-Lincoln,Lincoln,NE,26697,8950,17747,2024-25,10434,2024-25,19178,2024-25
+University of Northern Colorado,Greeley,CO,29254,11494,17760,2024-25,12416,2024-25,5598,2024-25
+University of Delaware,Newark,DE,30952,13153,17799,2024-25,16810,2024-25,19071,2024-25
+Keene State College,Keene,NH,29993,12106,17887,2024-25,14784,2024-25,2699,2024-25
+University of California-Santa Cruz,Santa Cruz,CA,41179,23289,17890,2024-25,16005,2024-25,17940,2024-25
+Pennsylvania State University-Penn State Scranton,Dunmore,PA,27862,9952,17910,2024-25,15208,2024-25,793,2024-25
+George Mason University,Fairfax,VA,28604,10689,17915,2024-25,14220,2024-25,27752,2024-25
+University of Puerto Rico-Mayaguez,Mayaguez,PR,21637,3701,17936,2024-25,5274,2024-25,9539,2024-25
+University of Pittsburgh-Greensburg,Greensburg,PA,30141,12196,17945,2024-25,14710,2024-25,1305,2024-25
+University of Louisville,Louisville,KY,32941,14953,17988,2024-25,13136,2024-25,14727,2024-25
+Minnesota State University Moorhead,Moorhead,MN,25197,7200,17997,2024-25,10428,2024-25,3072,2024-25
+Oregon State University-Cascades Campus,Bend,OR,29798,11750,18048,2024-25,13566,2024-25,1044,2024-25
+University of Kansas,Lawrence,KS,26751,8692,18059,2024-25,12102,2024-25,21217,2024-25
+Pennsylvania State University-Penn State Abington,Abington,PA,28795,10724,18071,2024-25,15268,2024-25,2877,2024-25
+Pennsylvania State University-Penn State Shenango,Sharon,PA,26821,8726,18095,2024-25,14024,2024-25,256,2024-25
+South Carolina State University,Orangeburg,SC,30015,11918,18097,2024-25,11060,2024-25,2934,2024-25
+East Stroudsburg University of Pennsylvania,East Stroudsburg,PA,27917,9783,18134,2024-25,11536,2024-25,4814,2024-25
+Ramapo College of New Jersey,Mahwah,NJ,29483,11310,18173,2024-25,16777,2024-25,4898,2024-25
+University of Pittsburgh-Johnstown,Johnstown,PA,30349,12147,18202,2024-25,14906,2024-25,1808,2024-25
+University of Arkansas,Fayetteville,AR,27767,9558,18209,2024-25,10104,2024-25,28677,2024-25
+SUNY College at Geneseo,Geneseo,NY,27709,9498,18211,2024-25,8999,2024-25,3869,2024-25
+Vermont State University,Randolph,VT,25988,7776,18212,2024-25,11952,2024-25,3590,2024-25
+Pennsylvania State University-Penn State Lehigh Valley,Center Valley,PA,28109,9889,18220,2024-25,15208,2024-25,859,2024-25
+Pennsylvania Western University,California,PA,26916,8660,18256,2024-25,11436,2024-25,7451,2024-25
+The University of Texas at Dallas,Richardson,TX,29807,11540,18267,2024-25,14644,2024-25,21751,2024-25
+Pennsylvania State University-Penn State New Kensington,New Kensington,PA,26863,8558,18305,2024-25,14408,2024-25,416,2024-25
+University of Central Oklahoma,Edmond,OK,26392,8083,18309,2024-25,8818,2024-25,10170,2024-25
+St. Mary's College of Maryland,St. Mary's City,MD,31865,13424,18441,2024-25,15298,2024-25,1603,2024-25
+Central Washington University,Ellensburg,WA,28816,10340,18476,2024-25,9417,2024-25,7833,2024-25
+University of North Dakota,Grand Forks,ND,25605,7054,18551,2024-25,10951,2024-25,9981,2024-25
+Iowa State University,Ames,IA,24018,5429,18589,2024-25,10787,2024-25,25367,2024-25
+SUNY College of Agriculture and Technology at Cobleskill,Cobleskill,NY,27786,9085,18701,2024-25,8768,2024-25,1904,2024-25
+University of Minnesota-Duluth,Duluth,MN,27680,8937,18743,2024-25,14610,2024-25,7336,2024-25
+Rutgers University-Camden,Camden,NJ,35178,16433,18745,2024-25,17764,2024-25,3753,2024-25
+William Paterson University of New Jersey,Wayne,NJ,28476,9731,18745,2024-25,15704,2024-25,6614,2024-25
+University of Alabama at Birmingham,Birmingham,AL,28145,9396,18749,2024-25,9098,2024-25,11635,2024-25
+Stony Brook University,Stony Brook,NY,30539,11755,18784,2024-25,10931,2024-25,18101,2024-25
+University of Alabama in Huntsville,Huntsville,AL,27392,8596,18796,2024-25,12132,2024-25,6591,2024-25
+State University of New York at New Paltz,New Paltz,NY,28428,9619,18809,2024-25,8572,2024-25,6086,2024-25
+University of Kentucky,Lexington,KY,34391,15540,18851,2024-25,13502,2024-25,24763,2024-25
+SUNY at Purchase College,Purchase,NY,29043,10130,18913,2024-25,8953,2024-25,3197,2024-25
+SUNY College of Environmental Science and Forestry,Syracuse,NY,28133,9181,18952,2024-25,9303,2024-25,1839,2024-25
+College of Charleston,Charleston,SC,32362,13402,18960,2024-25,12978,2024-25,10558,2024-25
+The University of Tennessee-Knoxville,Knoxville,TN,33678,14702,18976,2024-25,13812,2024-25,30418,2024-25
+Pennsylvania State University-Penn State York,York,PA,27826,8779,19047,2024-25,15208,2024-25,668,2024-25
+Longwood University,Farmville,VA,34588,15522,19066,2024-25,15744,2024-25,3015,2024-25
+Texas Tech University,Lubbock,TX,27443,8373,19070,2024-25,11852,2024-25,32394,2024-25
+Lincoln University,Jefferson City,MO,23704,4612,19092,2024-25,9796,2024-25,1392,2024-25
+William & Mary,Williamsburg,VA,43035,23939,19096,2024-25,25914,2024-25,7055,2024-25
+Minnesota State University-Mankato,Mankato,MN,23995,4856,19139,2024-25,9572,2024-25,11703,2024-25
+Louisiana State University and Agricultural & Mechanical College,Baton Rouge,LA,34705,15554,19151,2024-25,11954,2024-25,30594,2024-25
+SUNY Oneonta,Oneonta,NY,28821,9663,19158,2024-25,8831,2024-25,4643,2024-25
+Plymouth State University,Plymouth,NH,29644,10428,19216,2024-25,14626,2024-25,3153,2024-25
+Bowie State University,Bowie,MD,25220,5922,19298,2024-25,9218,2024-25,5043,2024-25
+University of Vermont,Burlington,VT,35649,16306,19343,2024-25,19058,2024-25,11743,2024-25
+Illinois State University,Normal,IL,34309,14911,19398,2024-25,16144,2024-25,19057,2024-25
+Kansas State University,Manhattan,KS,27402,7996,19406,2024-25,11221,2024-25,15142,2024-25
+Pennsylvania State University-Penn State Mont Alto,Mont Alto,PA,28841,9387,19454,2024-25,14408,2024-25,559,2024-25
+West Texas A & M University,Canyon,TX,23482,3995,19487,2024-25,9101,2024-25,6917,2024-25
+Pennsylvania State University-World Campus,University Park,PA,27678,8128,19550,2024-25,15356,2024-25,7877,2024-25
+Oregon State University,Corvallis,OR,31653,12049,19604,2024-25,14400,2024-25,30743,2024-25
+Slippery Rock University of Pennsylvania,Slippery Rock,PA,25537,5929,19608,2024-25,10568,2024-25,6788,2024-25
+Pennsylvania State University-Penn State Schuylkill,Schuylkill Haven,PA,30065,10406,19659,2024-25,15208,2024-25,620,2024-25
+Michigan State University,East Lansing,MI,32198,12518,19680,2024-25,16458,2024-25,40922,2024-25
+Rutgers University-Newark,Newark,NJ,35654,15951,19703,2024-25,17250,2024-25,7709,2024-25
+Grambling State University,Grambling,LA,25367,5558,19809,2024-25,7683,2024-25,4164,2024-25
+South Dakota State University,Brookings,SD,24636,4795,19841,2024-25,9299,2024-25,9198,2024-25
+The University of Texas at Austin,Austin,TX,31247,11390,19857,2024-25,11688,2024-25,42855,2024-25
+University of South Dakota,Vermillion,SD,24422,4564,19858,2024-25,9432,2024-25,5439,2024-25
+Southern University and A & M College,Baton Rouge,LA,26341,6264,20077,2024-25,9922,2024-25,5519,2024-25
+University of North Carolina Wilmington,Wilmington,NC,26547,6438,20109,2024-25,7277,2024-25,14922,2024-25
+South Dakota School of Mines and Technology,Rapid City,SD,25385,5202,20183,2024-25,10500,2024-25,2071,2024-25
+University of Missouri-Columbia,Columbia,MO,31713,11445,20268,2024-25,14837,2024-25,23929,2024-25
+Alabama State University,Montgomery,AL,23586,3151,20435,2024-25,11248,2024-25,3477,2024-25
+Cal Poly Maritime Academy,Vallejo,CA,29853,9298,20555,2024-25,9944,2024-25,804,2024-25
+University of Mary Washington,Fredericksburg,VA,31137,10470,20667,2024-25,14640,2024-25,3566,2024-25
+Stockton University,Galloway,NJ,35139,14469,20670,2024-25,16266,2024-25,7537,2024-25
+Georgia College & State University,Milledgeville,GA,30258,9572,20686,2024-25,9186,2024-25,5947,2024-25
+Citadel Military College of South Carolina,Charleston,SC,33880,13157,20723,2024-25,12570,2024-25,2705,2024-25
+Tarleton State University,Stephenville,TX,24100,3317,20783,2024-25,8302,2024-25,12673,2024-25
+Kent State University at Kent,Kent,OH,30567,9780,20787,2024-25,13232,2024-25,19320,2024-25
+Millersville University of Pennsylvania,Millersville,PA,26913,6126,20787,2024-25,11128,2024-25,5728,2024-25
+Southern Connecticut State University,New Haven,CT,29673,8816,20857,2024-25,13438,2024-25,6295,2024-25
+University of Massachusetts-Dartmouth,North Dartmouth,MA,33485,12558,20927,2024-25,15612,2024-25,5221,2024-25
+University at Buffalo,Buffalo,NY,30785,9790,20995,2024-25,10936,2024-25,20112,2024-25
+Dakota State University,Madison,SD,25753,4696,21057,2024-25,9654,2024-25,2071,2024-25
+Eastern Connecticut State University,Willimantic,CT,31983,10916,21067,2024-25,13928,2024-25,3418,2024-25
+Western Washington University,Bellingham,WA,30359,9166,21193,2024-25,9582,2024-25,13544,2024-25
+Colorado State University-Fort Collins,Fort Collins,CO,31642,10363,21279,2024-25,13373,2024-25,25538,2024-25
+University of Wisconsin-Milwaukee Flex,Milwaukee,WI,21310,0,21310,2022-23,6750,2022-23,543,2024-25
+Texas A&M University-College Station,College Station,TX,32696,11381,21315,2024-25,13154,2024-25,59615,2024-25
+Kutztown University of Pennsylvania,Kutztown,PA,29866,8535,21331,2024-25,11314,2024-25,6180,2024-25
+University of Rhode Island,Kingston,RI,34321,12881,21440,2024-25,16942,2024-25,13381,2024-25
+University of Virginia-Main Campus,Charlottesville,VA,39926,18361,21565,2024-25,21803,2024-25,17597,2024-25
+Massachusetts Maritime Academy,Buzzards Bay,MA,31367,9785,21582,2024-25,11420,2024-25,1395,2024-25
+Boise State University,Boise,ID,28224,6614,21610,2024-25,9048,2024-25,17674,2024-25
+Binghamton University,Vestal,NY,30345,8725,21620,2024-25,10567,2024-25,14655,2024-25
+Ohio University-Main Campus,Athens,OH,30586,8949,21637,2024-25,14158,2024-25,19633,2024-25
+University of Southern Mississippi,Hattiesburg,MS,26566,4858,21708,2024-25,9998,2024-25,10075,2024-25
+University of Maryland Global Campus,Adelphi,MD,25400,3337,22063,2024-25,8136,2024-25,49664,2024-25
+University of Oregon,Eugene,OR,34793,12611,22182,2024-25,16137,2024-25,20497,2024-25
+Pennsylvania State University-Penn State Altoona,Altoona,PA,32559,10346,22213,2024-25,15972,2024-25,2367,2024-25
+Clemson University,Clemson,SC,35015,12762,22253,2024-25,15554,2024-25,23300,2024-25
+State University of New York at Cortland,Cortland,NY,28108,5763,22345,2024-25,8874,2024-25,5901,2024-25
+SUNY Maritime College,Throggs Neck,NY,29786,7419,22367,2024-25,8589,2024-25,1285,2024-25
+University of Massachusetts-Amherst,Amherst,MA,34549,12166,22383,2024-25,17772,2024-25,23671,2024-25
+Rowan University,Glassboro,NJ,35842,13434,22408,2024-25,16574,2024-25,15841,2024-25
+The University of Alabama,Tuscaloosa,AL,33382,10962,22420,2024-25,12180,2024-25,33227,2024-25
+Montana State University,Bozeman,MT,25905,3406,22499,2024-25,8460,2024-25,14451,2024-25
+University of Iowa,Iowa City,IA,28596,6065,22531,2024-25,11283,2024-25,22264,2024-25
+Pennsylvania State University-Penn State Brandywine,Media,PA,31088,8503,22585,2024-25,15208,2024-25,1223,2024-25
+University of South Carolina-Columbia,Columbia,SC,31638,8827,22811,2024-25,12688,2024-25,29820,2024-25
+Christopher Newport University,Newport News,VA,33766,10751,23015,2024-25,16828,2024-25,4365,2024-25
+James Madison University,Harrisonburg,VA,31735,8413,23322,2024-25,14250,2024-25,20888,2024-25
+Pennsylvania State University-Penn State Harrisburg,Middletown,PA,32521,9191,23330,2024-25,15972,2024-25,4031,2024-25
+West Chester University of Pennsylvania,West Chester,PA,28394,5063,23331,2024-25,10775,2024-25,14164,2024-25
+Henderson State University,Arkadelphia,AR,27385,3980,23405,2024-25,8244,2024-25,1456,2024-25
+Maine Maritime Academy,Castine,ME,31046,7632,23414,2024-25,15158,2024-25,942,2024-25
+Virginia Commonwealth University,Richmond,VA,38954,15521,23433,2024-25,16945,2024-25,20753,2024-25
+Shippensburg University of Pennsylvania,Shippensburg,PA,30785,7059,23726,2024-25,13720,2024-25,4086,2024-25
+University of New Hampshire-Main Campus,Durham,NH,35537,11732,23805,2024-25,19202,2024-25,11261,2024-25
+Jackson State University,Jackson,MS,32415,8579,23836,2024-25,8965,2024-25,4600,2024-25
+Bowling Green State University-Main Campus,Bowling Green,OH,33007,8985,24022,2024-25,14460,2024-25,12812,2024-25
+Massachusetts College of Art and Design,Boston,MA,34239,10139,24100,2024-25,15400,2024-25,1831,2024-25
+The Evergreen State College,Olympia,WA,28477,4158,24319,2024-25,9264,2024-25,2160,2024-25
+Auburn University,Auburn,AL,34919,10596,24323,2024-25,12890,2024-25,26816,2024-25
+Pennsylvania State University-Penn State Berks,Reading,PA,32242,7886,24356,2024-25,15972,2024-25,1872,2024-25
+Rutgers University-New Brunswick,New Brunswick,NJ,36993,12587,24406,2024-25,17929,2024-25,37751,2024-25
+Pennsylvania State University-Penn State Erie-Behrend College,Erie,PA,34081,9523,24558,2024-25,15972,2024-25,3240,2024-25
+Virginia Polytechnic Institute and State University,Blacksburg,VA,36951,11998,24953,2024-25,15948,2024-25,30923,2024-25
+University of Connecticut,Storrs,CT,39426,14329,25097,2024-25,21044,2024-25,19835,2024-25
+University of Colorado Boulder,Boulder,CO,37684,12338,25346,2024-25,15666,2024-25,31939,2024-25
+University of Cincinnati-Main Campus,Cincinnati,OH,32171,6523,25648,2024-25,13976,2024-25,29882,2024-25
+The College of New Jersey,Ewing,NJ,38860,11214,27646,2024-25,19632,2024-25,7105,2024-25
+Bloomfield College of Montclair State University,Bloomfield,NJ,42035,14021,28014,2024-25,15912,2024-25,781,2024-25
+Temple University,Philadelphia,PA,40903,12705,28198,2024-25,23011,2024-25,20970,2024-25
+Miami University-Oxford,Oxford,OH,38757,10373,28384,2024-25,18161,2024-25,16656,2024-25
+Colorado School of Mines,Golden,CO,40560,11870,28690,2024-25,21914,2024-25,6155,2024-25
+University of Pittsburgh-Pittsburgh Campus,Pittsburgh,PA,38105,7671,30434,2024-25,21926,2024-25,20370,2024-25
+University of Massachusetts Global,Aliso Viejo,CA,35325,2671,32654,2024-25,12540,2024-25,4491,2024-25
+Pennsylvania State University-Main Campus,University Park,PA,39694,6819,32875,2024-25,20644,2024-25,42284,2024-25

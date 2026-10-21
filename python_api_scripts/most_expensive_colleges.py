@@ -41,7 +41,7 @@ CANDIDATE_YEARS = [2025, 2024, 2023, 2022, 2021, 2020]
 
 IDENTITY_FIELDS = ["id", "school.name", "school.city", "school.state", "school.ownership"]
 COA_BASE = "cost.attendance.academic_year"
-TUITION_BASE = "cost.tuition.out_of_state"
+TUITION_BASE = "cost.tuition.in_state"
 NETPRICE_BASES = ["cost.avg_net_price.private", "cost.avg_net_price.public"]
 OWNERSHIP = {1: "Public", 2: "Private nonprofit", 3: "Private for-profit"}
 
