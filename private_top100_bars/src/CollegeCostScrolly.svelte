@@ -112,27 +112,62 @@
 </section>
 
 <style>
-  .scrolly{position:relative;--ink:#182420;
-    font-family:"DM Sans",system-ui,sans-serif;background:#fff;color:var(--ink);
-    font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased}
+  .scrolly{
+    position:relative;
+    --navh: 80px;                      /* Strada toolbar height — measure & set */
+    --vh: calc(100vh - var(--navh));   /* visible area below the toolbar */
+    --maxw: min(1100px, 92vw);
+    --ink:#182420;
+    font-family:"DM Sans",system-ui,sans-serif;
+    background:#fff;color:var(--ink);
+    font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased;
+    text-align:left;direction:ltr;
+  }
 
-  /* pinned graphic */
-  .chart-sticky{position:sticky;top:0;height:100vh;width:100%}
-  .chart{position:absolute;inset:clamp(16px,3vh,32px) clamp(16px,4vw,48px);}
+  /* isolate from host site CSS */
+  .scrolly, .scrolly *{ box-sizing:border-box; margin:0; padding:0; text-align:inherit; }
+  .scrolly :where(svg, text, line, rect, tspan){ all: revert; }
 
-  /* steps overlaid on the pinned chart */
-  .steps{position:relative;margin-top:-100vh;z-index:2;pointer-events:none}
-  .step{min-height:100vh;display:flex;align-items:flex-start;padding:12vh clamp(18px,5vw,64px) 0}
-  .box{margin:0 auto; text-align:left;pointer-events:auto;max-width:30ch;background:rgba(255,255,255,.82);
+  /* pinned graphic — below the toolbar, chart centered in the visible area */
+  .chart-sticky{
+    position:sticky;
+    top: var(--navh);
+    height: var(--vh);
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .chart{
+    width: var(--maxw);
+    height: min(100%, 760px);
+  }
+
+  /* steps overlaid on the pinned chart — heights MUST match --vh */
+  .steps{
+    position:relative;
+    margin: calc(var(--vh) * -1) auto 0;
+    z-index:2;pointer-events:none;
+    width: var(--maxw); max-width:100%;
+  }
+  .step{ min-height: var(--vh); display:block; padding:6vh 0 0; }
+
+  .box{
+    margin:0 auto; text-align:left;
+    pointer-events:auto; width:fit-content; max-width:30ch;
+    background:rgba(255,255,255,.82);
     -webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);
-    border:1px solid #e6ebe8;border-radius:12px;padding:.7rem 1rem;
-    font-weight:600;font-size:clamp(1.2rem,2.7vw,2.1rem);line-height:1.16;letter-spacing:-.02em;
-    opacity:.35;transition:opacity .3s ease}
+    border:1px solid #e6ebe8;border-radius:12px;
+    padding:.7rem 1rem;
+    font-weight:600;font-size:clamp(1.2rem,2.7vw,2.1rem);
+    line-height:1.16;letter-spacing:-.02em;
+    opacity:.35;transition:opacity .3s ease;
+  }
   .box.active{opacity:1}
 
   @media (max-width:720px){
-    .chart{inset:12px 10px;}
-    .step{padding-top:9vh}
-    .box{max-width:24ch}
+    .scrolly{ --navh: 64px; --maxw: 100%; }
+    .step{ padding:4vh 12px 0; }
+    .box{ max-width:24ch; }
   }
 </style>
