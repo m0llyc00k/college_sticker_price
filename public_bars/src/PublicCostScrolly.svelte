@@ -128,7 +128,7 @@
   }
   .chart{
     width: var(--maxw);
-    height: min(100%, 760px);
+    height: min(100%, 650px);
   }
 
   /* steps overlaid on the pinned chart — heights MUST match --vh */
@@ -147,7 +147,7 @@
     -webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);
     border:1px solid #e6ebe8;border-radius:12px;
     padding:.7rem 1rem;
-    font-weight:600;font-size:clamp(1.2rem,2.7vw,2.1rem);
+    font-weight:600;font-size: 1.25rem;line-height: 1.3;
     line-height:1.16;letter-spacing:-.02em;
     opacity:.35;transition:opacity .3s ease;
   }

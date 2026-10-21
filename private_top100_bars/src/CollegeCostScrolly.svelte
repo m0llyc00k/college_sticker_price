@@ -40,7 +40,7 @@
   $: iNew       = one("The New School");
 
   const CAPS = [
-    "These are the cost of attendance for the 100 most expensive colleges in the United States",
+    "These are the cost of attendance for the 100 most expensive colleges in the United States.",
     "16 colleges now list a cost of attendance over $100,000 a year.",
     "11 more hover just below six figures, around $99,000.",
     "But once average grant aid is applied, the price students actually pay is significantly less.",
@@ -140,7 +140,7 @@
   }
   .chart{
     width: var(--maxw);
-    height: min(100%, 760px);
+    height: min(100%, 650px);
   }
 
   /* steps overlaid on the pinned chart — heights MUST match --vh */
@@ -159,7 +159,7 @@
     -webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);
     border:1px solid #e6ebe8;border-radius:12px;
     padding:.7rem 1rem;
-    font-weight:600;font-size:clamp(1.2rem,2.7vw,2.1rem);
+    font-weight:600;font-size: 1.25rem;line-height: 1.3;
     line-height:1.16;letter-spacing:-.02em;
     opacity:.35;transition:opacity .3s ease;
   }
